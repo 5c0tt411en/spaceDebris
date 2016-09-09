@@ -1,0 +1,6571 @@
+{
+  "example": {
+    "deb": [
+      {
+        "PERIOD": "112.10",
+        "INCLINATION": "65.82",
+        "APOGEE": "2011",
+        "PERIGEE": "636"
+      },
+      {
+        "PERIOD": "105.79",
+        "INCLINATION": "65.79",
+        "APOGEE": "1574",
+        "PERIGEE": "489"
+      },
+      {
+        "PERIOD": "108.25",
+        "INCLINATION": "65.77",
+        "APOGEE": "1726",
+        "PERIGEE": "566"
+      },
+      {
+        "PERIOD": "109.26",
+        "INCLINATION": "65.77",
+        "APOGEE": "1827",
+        "PERIGEE": "558"
+      },
+      {
+        "PERIOD": "111.62",
+        "INCLINATION": "65.83",
+        "APOGEE": "1999",
+        "PERIGEE": "604"
+      },
+      {
+        "PERIOD": "108.88",
+        "INCLINATION": "65.80",
+        "APOGEE": "1813",
+        "PERIGEE": "537"
+      },
+      {
+        "PERIOD": "108.94",
+        "INCLINATION": "65.82",
+        "APOGEE": "1870",
+        "PERIGEE": "486"
+      },
+      {
+        "PERIOD": "113.53",
+        "INCLINATION": "65.93",
+        "APOGEE": "2101",
+        "PERIGEE": "676"
+      },
+      {
+        "PERIOD": "96.48",
+        "INCLINATION": "65.78",
+        "APOGEE": "754",
+        "PERIGEE": "426"
+      },
+      {
+        "PERIOD": "100.10",
+        "INCLINATION": "97.41",
+        "APOGEE": "847",
+        "PERIGEE": "679"
+      },
+      {
+        "PERIOD": "95.87",
+        "INCLINATION": "74.03",
+        "APOGEE": "564",
+        "PERIGEE": "557"
+      },
+      {
+        "PERIOD": "116.02",
+        "INCLINATION": "101.65",
+        "APOGEE": "1555",
+        "PERIGEE": "1448"
+      },
+      {
+        "PERIOD": "97.12",
+        "INCLINATION": "74.05",
+        "APOGEE": "629",
+        "PERIGEE": "613"
+      },
+      {
+        "PERIOD": "119.45",
+        "INCLINATION": "101.45",
+        "APOGEE": "1922",
+        "PERIGEE": "1390"
+      },
+      {
+        "PERIOD": "101.40",
+        "INCLINATION": "97.87",
+        "APOGEE": "917",
+        "PERIGEE": "733"
+      },
+      {
+        
+      },
+      {
+        
+      },
+      {
+        "PERIOD": "178.08",
+        "INCLINATION": "85.18",
+        "APOGEE": "6250",
+        "PERIGEE": "1964"
+      },
+      
+      {
+        "PERIOD": "114.38",
+        "INCLINATION": "97.04",
+        "APOGEE": "1445",
+        "PERIGEE": "1409"
+      },
+      {
+        "PERIOD": "98.38",
+        "INCLINATION": "98.39",
+        "APOGEE": "722",
+        "PERIGEE": "640"
+      },
+      {
+        "PERIOD": "100.17",
+        "INCLINATION": "97.55",
+        "APOGEE": "829",
+        "PERIGEE": "704"
+      },
+      {
+        "PERIOD": "98.92",
+        "INCLINATION": "97.95",
+        "APOGEE": "767",
+        "PERIGEE": "647"
+      },
+      {
+        "PERIOD": "100.02",
+        "INCLINATION": "97.92",
+        "APOGEE": "805",
+        "PERIGEE": "714"
+      },
+      {
+        "PERIOD": "99.51",
+        "INCLINATION": "97.95",
+        "APOGEE": "770",
+        "PERIGEE": "701"
+      },
+      {
+        "PERIOD": "116.83",
+        "INCLINATION": "65.86",
+        "APOGEE": "2098",
+        "PERIGEE": "978"
+      },
+      {
+        "PERIOD": "97.52",
+        "INCLINATION": "98.19",
+        "APOGEE": "660",
+        "PERIGEE": "620"
+      },
+      {
+        "PERIOD": "100.16",
+        "INCLINATION": "97.73",
+        "APOGEE": "860",
+        "PERIGEE": "672"
+      },
+      {
+        "PERIOD": "98.55",
+        "INCLINATION": "97.91",
+        "APOGEE": "721",
+        "PERIGEE": "658"
+      },
+      {
+        "PERIOD": "97.57",
+        "INCLINATION": "98.22",
+        "APOGEE": "666",
+        "PERIGEE": "619"
+      },
+      {
+        "PERIOD": "100.14",
+        "INCLINATION": "97.32",
+        "APOGEE": "850",
+        "PERIGEE": "681"
+      },
+      {
+        "PERIOD": "100.56",
+        "INCLINATION": "97.69",
+        "APOGEE": "877",
+        "PERIGEE": "693"
+      },
+      {
+        "PERIOD": "101.06",
+        "INCLINATION": "97.62",
+        "APOGEE": "906",
+        "PERIGEE": "711"
+      },
+      {
+        "PERIOD": "100.58",
+        "INCLINATION": "97.67",
+        "APOGEE": "861",
+        "PERIGEE": "711"
+      },
+      {
+        "PERIOD": "99.75",
+        "INCLINATION": "98.41",
+        "APOGEE": "794",
+        "PERIGEE": "700"
+      },
+      {
+        "PERIOD": "98.84",
+        "INCLINATION": "98.00",
+        "APOGEE": "731",
+        "PERIGEE": "676"
+      },
+      {
+        "PERIOD": "97.78",
+        "INCLINATION": "98.29",
+        "APOGEE": "675",
+        "PERIGEE": "630"
+      },
+      {
+        "PERIOD": "100.37",
+        "INCLINATION": "97.76",
+        "APOGEE": "875",
+        "PERIGEE": "677"
+      },
+      {
+        "PERIOD": "98.46",
+        "INCLINATION": "97.76",
+        "APOGEE": "708",
+        "PERIGEE": "663"
+      },
+      {
+        
+      },
+      {
+        "PERIOD": "103.67",
+        "INCLINATION": "101.68",
+        "APOGEE": "1034",
+        "PERIGEE": "830"
+      },
+      {
+        "PERIOD": "104.33",
+        "INCLINATION": "100.08",
+        "APOGEE": "1001",
+        "PERIGEE": "926"
+      },
+      {
+        "PERIOD": "106.16",
+        "INCLINATION": "99.28",
+        "APOGEE": "1103",
+        "PERIGEE": "994"
+      },
+      {
+        
+      },
+      {
+        
+      },
+      {
+        
+      },
+      {
+        
+      },
+      {
+        "PERIOD": "1465.51",
+        "INCLINATION": "13.99",
+        "APOGEE": "37014",
+        "PERIGEE": "35707"
+      },
+      {
+        "PERIOD": "98.90",
+        "INCLINATION": "74.06",
+        "APOGEE": "717",
+        "PERIGEE": "696"
+      },
+      {
+        "PERIOD": "116.24",
+        "INCLINATION": "101.82",
+        "APOGEE": "1536",
+        "PERIGEE": "1487"
+      },
+      {
+        "PERIOD": "101.72",
+        "INCLINATION": "81.26",
+        "APOGEE": "849",
+        "PERIGEE": "831"
+      },
+      {
+        "PERIOD": "98.94",
+        "INCLINATION": "81.24",
+        "APOGEE": "715",
+        "PERIGEE": "701"
+      },
+      {
+        "PERIOD": "114.06",
+        "INCLINATION": "101.25",
+        "APOGEE": "1520",
+        "PERIGEE": "1305"
+      },
+      {
+        "PERIOD": "114.40",
+        "INCLINATION": "101.45",
+        "APOGEE": "1461",
+        "PERIGEE": "1395"
+      },
+      {
+        "PERIOD": "116.24",
+        "INCLINATION": "101.64",
+        "APOGEE": "1594",
+        "PERIGEE": "1428"
+      },
+      {
+        "PERIOD": "116.15",
+        "INCLINATION": "102.31",
+        "APOGEE": "1563",
+        "PERIGEE": "1452"
+      },
+      {
+        "PERIOD": "115.75",
+        "INCLINATION": "101.96",
+        "APOGEE": "1531",
+        "PERIGEE": "1448"
+      },
+      {
+        "PERIOD": "118.84",
+        "INCLINATION": "101.00",
+        "APOGEE": "1845",
+        "PERIGEE": "1413"
+      },
+      {
+        "PERIOD": "112.30",
+        "INCLINATION": "100.28",
+        "APOGEE": "1487",
+        "PERIGEE": "1178"
+      },
+      {
+        "PERIOD": "103.95",
+        "INCLINATION": "74.04",
+        "APOGEE": "961",
+        "PERIGEE": "929"
+      },
+      {
+        "PERIOD": "96.78",
+        "INCLINATION": "74.03",
+        "APOGEE": "606",
+        "PERIGEE": "604"
+      },
+      {
+        "PERIOD": "97.63",
+        "INCLINATION": "74.05",
+        "APOGEE": "648",
+        "PERIGEE": "642"
+      },
+      {
+        "PERIOD": "99.33",
+        "INCLINATION": "97.94",
+        "APOGEE": "762",
+        "PERIGEE": "691"
+      },
+      {
+        "PERIOD": "101.56",
+        "INCLINATION": "97.78",
+        "APOGEE": "946",
+        "PERIGEE": "719"
+      },
+      {
+        "PERIOD": "99.31",
+        "INCLINATION": "98.82",
+        "APOGEE": "879",
+        "PERIGEE": "572"
+      },
+      {
+        "PERIOD": "102.21",
+        "INCLINATION": "97.67",
+        "APOGEE": "992",
+        "PERIGEE": "734"
+      },
+      {
+        "PERIOD": "113.52",
+        "INCLINATION": "101.62",
+        "APOGEE": "1456",
+        "PERIGEE": "1320"
+      },
+      {
+        "PERIOD": "117.53",
+        "INCLINATION": "101.53",
+        "APOGEE": "1687",
+        "PERIGEE": "1453"
+      },
+      {
+        "PERIOD": "113.15",
+        "INCLINATION": "101.82",
+        "APOGEE": "1471",
+        "PERIGEE": "1271"
+      },
+      {
+        "PERIOD": "113.29",
+        "INCLINATION": "101.87",
+        "APOGEE": "1552",
+        "PERIGEE": "1204"
+      },
+      {
+        "PERIOD": "116.93",
+        "INCLINATION": "101.65",
+        "APOGEE": "1645",
+        "PERIGEE": "1440"
+      },
+      {
+        "PERIOD": "127.37",
+        "INCLINATION": "100.68",
+        "APOGEE": "2615",
+        "PERIGEE": "1401"
+      },
+      {
+        "PERIOD": "113.71",
+        "INCLINATION": "101.75",
+        "APOGEE": "1463",
+        "PERIGEE": "1330"
+      },
+      {
+        "PERIOD": "113.81",
+        "INCLINATION": "101.25",
+        "APOGEE": "1439",
+        "PERIGEE": "1363"
+      },
+      {
+        "PERIOD": "114.95",
+        "INCLINATION": "101.26",
+        "APOGEE": "1518",
+        "PERIGEE": "1388"
+      },
+      {
+        "PERIOD": "118.52",
+        "INCLINATION": "101.57",
+        "APOGEE": "1823",
+        "PERIGEE": "1405"
+      },
+      {
+        "PERIOD": "113.83",
+        "INCLINATION": "101.59",
+        "APOGEE": "1451",
+        "PERIGEE": "1353"
+      },
+      {
+        "PERIOD": "108.23",
+        "INCLINATION": "102.11",
+        "APOGEE": "1453",
+        "PERIGEE": "836"
+      },
+      {
+        "PERIOD": "114.93",
+        "INCLINATION": "101.43",
+        "APOGEE": "1516",
+        "PERIGEE": "1388"
+      },
+      {
+        "PERIOD": "114.93",
+        "INCLINATION": "101.36",
+        "APOGEE": "1504",
+        "PERIGEE": "1401"
+      },
+      {
+        "PERIOD": "114.66",
+        "INCLINATION": "101.44",
+        "APOGEE": "1464",
+        "PERIGEE": "1416"
+      },
+      {
+        "PERIOD": "113.16",
+        "INCLINATION": "97.44",
+        "APOGEE": "2029",
+        "PERIGEE": "714"
+      },
+      {
+        "PERIOD": "104.07",
+        "INCLINATION": "97.92",
+        "APOGEE": "1214",
+        "PERIGEE": "688"
+      },
+      {
+        "PERIOD": "101.64",
+        "INCLINATION": "97.31",
+        "APOGEE": "990",
+        "PERIGEE": "683"
+      },
+      {
+        "PERIOD": "99.49",
+        "INCLINATION": "98.64",
+        "APOGEE": "830",
+        "PERIGEE": "638"
+      },
+      {
+        
+      },
+      {
+        "PERIOD": "113.49",
+        "INCLINATION": "101.49",
+        "APOGEE": "2231",
+        "PERIGEE": "542"
+      },
+      {
+        "PERIOD": "111.29",
+        "INCLINATION": "102.39",
+        "APOGEE": "1363",
+        "PERIGEE": "1209"
+      },
+      {
+        "PERIOD": "104.92",
+        "INCLINATION": "101.70",
+        "APOGEE": "1103",
+        "PERIGEE": "878"
+      },
+      {
+        "PERIOD": "114.46",
+        "INCLINATION": "101.45",
+        "APOGEE": "1467",
+        "PERIGEE": "1395"
+      },
+      {
+        "PERIOD": "116.56",
+        "INCLINATION": "101.73",
+        "APOGEE": "1596",
+        "PERIGEE": "1457"
+      },
+      {
+        "PERIOD": "117.97",
+        "INCLINATION": "101.64",
+        "APOGEE": "1721",
+        "PERIGEE": "1458"
+      },
+      {
+        "PERIOD": "113.76",
+        "INCLINATION": "101.16",
+        "APOGEE": "1578",
+        "PERIGEE": "1219"
+      },
+      {
+        "PERIOD": "114.60",
+        "INCLINATION": "101.41",
+        "APOGEE": "1452",
+        "PERIGEE": "1422"
+      },
+      {
+        "PERIOD": "127.49",
+        "INCLINATION": "102.69",
+        "APOGEE": "2606",
+        "PERIGEE": "1420"
+      },
+      {
+        "PERIOD": "111.41",
+        "INCLINATION": "101.22",
+        "APOGEE": "1343",
+        "PERIGEE": "1240"
+      },
+      {
+        "PERIOD": "115.51",
+        "INCLINATION": "101.41",
+        "APOGEE": "1521",
+        "PERIGEE": "1436"
+      },
+      {
+        "PERIOD": "113.69",
+        "INCLINATION": "101.80",
+        "APOGEE": "1445",
+        "PERIGEE": "1347"
+      },
+      {
+        "PERIOD": "115.72",
+        "INCLINATION": "101.69",
+        "APOGEE": "1529",
+        "PERIGEE": "1448"
+      },
+      {
+        "PERIOD": "116.25",
+        "INCLINATION": "101.94",
+        "APOGEE": "1634",
+        "PERIGEE": "1391"
+      },
+      {
+        "PERIOD": "117.40",
+        "INCLINATION": "102.07",
+        "APOGEE": "1626",
+        "PERIGEE": "1503"
+      },
+      {
+        "PERIOD": "104.35",
+        "INCLINATION": "101.67",
+        "APOGEE": "1003",
+        "PERIGEE": "926"
+      },
+      {
+        "PERIOD": "115.89",
+        "INCLINATION": "102.29",
+        "APOGEE": "1546",
+        "PERIGEE": "1445"
+      },
+      {
+        "PERIOD": "113.84",
+        "INCLINATION": "100.84",
+        "APOGEE": "1473",
+        "PERIGEE": "1333"
+      },
+      {
+        "PERIOD": "118.01",
+        "INCLINATION": "102.55",
+        "APOGEE": "1730",
+        "PERIGEE": "1454"
+      },
+      {
+        "PERIOD": "99.27",
+        "INCLINATION": "98.51",
+        "APOGEE": "825",
+        "PERIGEE": "623"
+      },
+      {
+        "PERIOD": "97.53",
+        "INCLINATION": "98.50",
+        "APOGEE": "709",
+        "PERIGEE": "571"
+      },
+      {
+        "PERIOD": "115.62",
+        "INCLINATION": "101.61",
+        "APOGEE": "1513",
+        "PERIGEE": "1454"
+      },
+      {
+        "PERIOD": "116.10",
+        "INCLINATION": "101.84",
+        "APOGEE": "1557",
+        "PERIGEE": "1454"
+      },
+      {
+        "PERIOD": "115.61",
+        "INCLINATION": "101.86",
+        "APOGEE": "1533",
+        "PERIGEE": "1433"
+      },
+      {
+        "PERIOD": "122.56",
+        "INCLINATION": "101.15",
+        "APOGEE": "2167",
+        "PERIGEE": "1423"
+      },
+      {
+        "PERIOD": "115.27",
+        "INCLINATION": "101.93",
+        "APOGEE": "1526",
+        "PERIGEE": "1410"
+      },
+      {
+        "PERIOD": "116.61",
+        "INCLINATION": "101.43",
+        "APOGEE": "1601",
+        "PERIGEE": "1455"
+      },
+      {
+        "PERIOD": "115.03",
+        "INCLINATION": "101.51",
+        "APOGEE": "1484",
+        "PERIGEE": "1430"
+      },
+      {
+        "PERIOD": "103.90",
+        "INCLINATION": "102.97",
+        "APOGEE": "1010",
+        "PERIGEE": "875"
+      },
+      {
+        "PERIOD": "120.07",
+        "INCLINATION": "100.88",
+        "APOGEE": "1974",
+        "PERIGEE": "1394"
+      },
+      {
+        "PERIOD": "107.91",
+        "INCLINATION": "102.17",
+        "APOGEE": "1468",
+        "PERIGEE": "792"
+      },
+      {
+        "PERIOD": "116.95",
+        "INCLINATION": "102.39",
+        "APOGEE": "1700",
+        "PERIGEE": "1387"
+      },
+      {
+        "PERIOD": "116.11",
+        "INCLINATION": "101.53",
+        "APOGEE": "1560",
+        "PERIGEE": "1451"
+      },
+      {
+        "PERIOD": "115.43",
+        "INCLINATION": "101.65",
+        "APOGEE": "1525",
+        "PERIGEE": "1425"
+      },
+      {
+        "PERIOD": "116.82",
+        "INCLINATION": "100.80",
+        "APOGEE": "1622",
+        "PERIGEE": "1454"
+      },
+      {
+        "PERIOD": "113.28",
+        "INCLINATION": "100.51",
+        "APOGEE": "1489",
+        "PERIGEE": "1265"
+      },
+      {
+        "PERIOD": "116.13",
+        "INCLINATION": "101.60",
+        "APOGEE": "1562",
+        "PERIGEE": "1451"
+      },
+      {
+        "PERIOD": "116.16",
+        "INCLINATION": "100.86",
+        "APOGEE": "1594",
+        "PERIGEE": "1421"
+      },
+      {
+        "PERIOD": "116.72",
+        "INCLINATION": "101.51",
+        "APOGEE": "1612",
+        "PERIGEE": "1455"
+      },
+      {
+        "PERIOD": "115.42",
+        "INCLINATION": "102.43",
+        "APOGEE": "1659",
+        "PERIGEE": "1290"
+      },
+      {
+        "PERIOD": "119.49",
+        "INCLINATION": "101.10",
+        "APOGEE": "1871",
+        "PERIGEE": "1446"
+      },
+      {
+        "PERIOD": "114.82",
+        "INCLINATION": "102.40",
+        "APOGEE": "1632",
+        "PERIGEE": "1263"
+      },
+      {
+        "PERIOD": "114.93",
+        "INCLINATION": "101.48",
+        "APOGEE": "1503",
+        "PERIGEE": "1402"
+      },
+      {
+        "PERIOD": "115.07",
+        "INCLINATION": "101.51",
+        "APOGEE": "1547",
+        "PERIGEE": "1371"
+      },
+      {
+        "PERIOD": "114.75",
+        "INCLINATION": "101.58",
+        "APOGEE": "1485",
+        "PERIGEE": "1403"
+      },
+      {
+        "PERIOD": "105.87",
+        "INCLINATION": "101.70",
+        "APOGEE": "1102",
+        "PERIGEE": "968"
+      },
+      {
+        "PERIOD": "111.93",
+        "INCLINATION": "102.53",
+        "APOGEE": "1423",
+        "PERIGEE": "1208"
+      },
+      {
+        "PERIOD": "114.96",
+        "INCLINATION": "101.42",
+        "APOGEE": "1470",
+        "PERIGEE": "1437"
+      },
+      {
+        "PERIOD": "109.63",
+        "INCLINATION": "101.39",
+        "APOGEE": "1317",
+        "PERIGEE": "1102"
+      },
+      {
+        "PERIOD": "115.10",
+        "INCLINATION": "101.57",
+        "APOGEE": "1491",
+        "PERIGEE": "1429"
+      },
+      {
+        "PERIOD": "115.21",
+        "INCLINATION": "101.40",
+        "APOGEE": "1482",
+        "PERIGEE": "1448"
+      },
+      {
+        "PERIOD": "117.18",
+        "INCLINATION": "101.59",
+        "APOGEE": "1650",
+        "PERIGEE": "1458"
+      },
+      {
+        "PERIOD": "116.57",
+        "INCLINATION": "102.48",
+        "APOGEE": "1755",
+        "PERIGEE": "1299"
+      },
+      {
+        "PERIOD": "115.77",
+        "INCLINATION": "100.86",
+        "APOGEE": "1618",
+        "PERIGEE": "1363"
+      },
+      {
+        "PERIOD": "120.20",
+        "INCLINATION": "101.23",
+        "APOGEE": "1997",
+        "PERIGEE": "1383"
+      },
+      {
+        "PERIOD": "113.99",
+        "INCLINATION": "101.79",
+        "APOGEE": "1519",
+        "PERIGEE": "1300"
+      },
+      {
+        "PERIOD": "114.05",
+        "INCLINATION": "101.58",
+        "APOGEE": "1511",
+        "PERIGEE": "1314"
+      },
+      {
+        "PERIOD": "114.16",
+        "INCLINATION": "101.82",
+        "APOGEE": "1471",
+        "PERIGEE": "1364"
+      },
+      {
+        "PERIOD": "115.46",
+        "INCLINATION": "101.69",
+        "APOGEE": "1582",
+        "PERIGEE": "1370"
+      },
+      {
+        "PERIOD": "113.62",
+        "INCLINATION": "101.93",
+        "APOGEE": "1453",
+        "PERIGEE": "1333"
+      },
+      {
+        "PERIOD": "114.98",
+        "INCLINATION": "101.59",
+        "APOGEE": "1460",
+        "PERIGEE": "1450"
+      },
+      {
+        "PERIOD": "119.08",
+        "INCLINATION": "100.90",
+        "APOGEE": "1867",
+        "PERIGEE": "1412"
+      },
+      {
+        "PERIOD": "114.31",
+        "INCLINATION": "101.43",
+        "APOGEE": "1469",
+        "PERIGEE": "1379"
+      },
+      {
+        "PERIOD": "112.44",
+        "INCLINATION": "101.81",
+        "APOGEE": "1598",
+        "PERIGEE": "1079"
+      },
+      {
+        "PERIOD": "114.77",
+        "INCLINATION": "101.49",
+        "APOGEE": "1589",
+        "PERIGEE": "1301"
+      },
+      {
+        "PERIOD": "114.34",
+        "INCLINATION": "101.32",
+        "APOGEE": "1446",
+        "PERIGEE": "1404"
+      },
+      {
+        "PERIOD": "114.88",
+        "INCLINATION": "101.32",
+        "APOGEE": "1565",
+        "PERIGEE": "1334"
+      },
+      {
+        "PERIOD": "114.21",
+        "INCLINATION": "101.29",
+        "APOGEE": "1571",
+        "PERIGEE": "1269"
+      },
+      {
+        "PERIOD": "116.88",
+        "INCLINATION": "101.36",
+        "APOGEE": "1856",
+        "PERIGEE": "1226"
+      },
+      {
+        "PERIOD": "116.50",
+        "INCLINATION": "101.38",
+        "APOGEE": "1594",
+        "PERIGEE": "1453"
+      },
+      {
+        "PERIOD": "115.51",
+        "INCLINATION": "101.51",
+        "APOGEE": "1513",
+        "PERIGEE": "1445"
+      },
+      {
+        "PERIOD": "114.13",
+        "INCLINATION": "101.19",
+        "APOGEE": "1456",
+        "PERIGEE": "1376"
+      },
+      {
+        "PERIOD": "113.31",
+        "INCLINATION": "100.92",
+        "APOGEE": "1454",
+        "PERIGEE": "1302"
+      },
+      {
+        "PERIOD": "113.86",
+        "INCLINATION": "101.45",
+        "APOGEE": "1461",
+        "PERIGEE": "1346"
+      },
+      {
+        "PERIOD": "102.06",
+        "INCLINATION": "81.35",
+        "APOGEE": "880",
+        "PERIGEE": "832"
+      },
+      {
+        "PERIOD": "106.85",
+        "INCLINATION": "98.61",
+        "APOGEE": "1497",
+        "PERIGEE": "665"
+      },
+      {
+        "PERIOD": "102.21",
+        "INCLINATION": "81.30",
+        "APOGEE": "877",
+        "PERIGEE": "849"
+      },
+      {
+        "PERIOD": "100.85",
+        "INCLINATION": "97.60",
+        "APOGEE": "955",
+        "PERIGEE": "643"
+      },
+      {
+        "PERIOD": "105.20",
+        "INCLINATION": "97.87",
+        "APOGEE": "1308",
+        "PERIGEE": "699"
+      },
+      {
+        "PERIOD": "101.85",
+        "INCLINATION": "98.02",
+        "APOGEE": "1025",
+        "PERIGEE": "667"
+      },
+      {
+        "PERIOD": "103.16",
+        "INCLINATION": "97.66",
+        "APOGEE": "1139",
+        "PERIGEE": "677"
+      },
+      {
+        "PERIOD": "106.00",
+        "INCLINATION": "99.00",
+        "APOGEE": "1439",
+        "PERIGEE": "643"
+      },
+      {
+        "PERIOD": "102.72",
+        "INCLINATION": "98.01",
+        "APOGEE": "1138",
+        "PERIGEE": "637"
+      },
+      {
+        "PERIOD": "113.88",
+        "INCLINATION": "95.19",
+        "APOGEE": "1424",
+        "PERIGEE": "1385"
+      },
+      {
+        "PERIOD": "113.20",
+        "INCLINATION": "94.99",
+        "APOGEE": "1403",
+        "PERIGEE": "1344"
+      },
+      {
+        "PERIOD": "101.64",
+        "INCLINATION": "98.67",
+        "APOGEE": "1060",
+        "PERIGEE": "613"
+      },
+      {
+        "PERIOD": "102.57",
+        "INCLINATION": "97.74",
+        "APOGEE": "1086",
+        "PERIGEE": "675"
+      },
+      {
+        "PERIOD": "104.73",
+        "INCLINATION": "97.81",
+        "APOGEE": "1280",
+        "PERIGEE": "684"
+      },
+      {
+        "PERIOD": "98.35",
+        "INCLINATION": "98.59",
+        "APOGEE": "759",
+        "PERIGEE": "601"
+      },
+      {
+        "PERIOD": "99.05",
+        "INCLINATION": "98.88",
+        "APOGEE": "835",
+        "PERIGEE": "592"
+      },
+      {
+        "PERIOD": "94.57",
+        "INCLINATION": "97.95",
+        "APOGEE": "532",
+        "PERIGEE": "464"
+      },
+      {
+        "PERIOD": "95.78",
+        "INCLINATION": "98.64",
+        "APOGEE": "607",
+        "PERIGEE": "506"
+      },
+      {
+        "PERIOD": "100.14",
+        "INCLINATION": "98.18",
+        "APOGEE": "916",
+        "PERIGEE": "614"
+      },
+      {
+        "PERIOD": "103.28",
+        "INCLINATION": "98.04",
+        "APOGEE": "1164",
+        "PERIGEE": "663"
+      },
+      {
+        "PERIOD": "99.40",
+        "INCLINATION": "98.56",
+        "APOGEE": "840",
+        "PERIGEE": "620"
+      },
+      {
+        "PERIOD": "99.54",
+        "INCLINATION": "98.62",
+        "APOGEE": "872",
+        "PERIGEE": "602"
+      },
+      {
+        "PERIOD": "103.07",
+        "INCLINATION": "98.13",
+        "APOGEE": "1144",
+        "PERIGEE": "663"
+      },
+      {
+        "PERIOD": "103.38",
+        "INCLINATION": "98.02",
+        "APOGEE": "1163",
+        "PERIGEE": "674"
+      },
+      {
+        "PERIOD": "103.44",
+        "INCLINATION": "49.82",
+        "APOGEE": "1059",
+        "PERIGEE": "784"
+      },
+      {
+        "PERIOD": "103.37",
+        "INCLINATION": "49.80",
+        "APOGEE": "1050",
+        "PERIGEE": "785"
+      },
+      {
+        "PERIOD": "103.30",
+        "INCLINATION": "49.84",
+        "APOGEE": "1042",
+        "PERIGEE": "787"
+      },
+      {
+        
+      },
+      {
+        "PERIOD": "102.44",
+        "INCLINATION": "82.97",
+        "APOGEE": "922",
+        "PERIGEE": "826"
+      },
+      {
+        "PERIOD": "114.65",
+        "INCLINATION": "96.79",
+        "APOGEE": "1478",
+        "PERIGEE": "1401"
+      },
+      {
+        "PERIOD": "117.12",
+        "INCLINATION": "102.20",
+        "APOGEE": "1601",
+        "PERIGEE": "1502"
+      },
+      {
+        "PERIOD": "111.42",
+        "INCLINATION": "101.74",
+        "APOGEE": "1606",
+        "PERIGEE": "978"
+      },
+      {
+        "PERIOD": "107.58",
+        "INCLINATION": "102.02",
+        "APOGEE": "1454",
+        "PERIGEE": "776"
+      },
+      {
+        "PERIOD": "109.04",
+        "INCLINATION": "102.02",
+        "APOGEE": "1409",
+        "PERIGEE": "956"
+      },
+      {
+        "PERIOD": "119.89",
+        "INCLINATION": "102.51",
+        "APOGEE": "1919",
+        "PERIGEE": "1433"
+      },
+      {
+        "PERIOD": "111.94",
+        "INCLINATION": "102.34",
+        "APOGEE": "1429",
+        "PERIGEE": "1202"
+      },
+      {
+        "PERIOD": "115.49",
+        "INCLINATION": "102.31",
+        "APOGEE": "1518",
+        "PERIGEE": "1437"
+      },
+      {
+        "PERIOD": "107.04",
+        "INCLINATION": "103.20",
+        "APOGEE": "1327",
+        "PERIGEE": "852"
+      },
+      {
+        "PERIOD": "125.31",
+        "INCLINATION": "102.69",
+        "APOGEE": "2358",
+        "PERIGEE": "1476"
+      },
+      {
+        "PERIOD": "119.23",
+        "INCLINATION": "101.84",
+        "APOGEE": "1885",
+        "PERIGEE": "1408"
+      },
+      {
+        "PERIOD": "124.17",
+        "INCLINATION": "102.20",
+        "APOGEE": "2231",
+        "PERIGEE": "1503"
+      },
+      {
+        "PERIOD": "118.84",
+        "INCLINATION": "102.08",
+        "APOGEE": "1825",
+        "PERIGEE": "1432"
+      },
+      {
+        "PERIOD": "105.57",
+        "INCLINATION": "102.71",
+        "APOGEE": "1201",
+        "PERIGEE": "841"
+      },
+      {
+        "PERIOD": "110.93",
+        "INCLINATION": "101.82",
+        "APOGEE": "1445",
+        "PERIGEE": "1095"
+      },
+      {
+        "PERIOD": "117.79",
+        "INCLINATION": "101.85",
+        "APOGEE": "1704",
+        "PERIGEE": "1459"
+      },
+      {
+        "PERIOD": "110.69",
+        "INCLINATION": "102.31",
+        "APOGEE": "1406",
+        "PERIGEE": "1111"
+      },
+      {
+        "PERIOD": "113.63",
+        "INCLINATION": "102.36",
+        "APOGEE": "1496",
+        "PERIGEE": "1290"
+      },
+      {
+        "PERIOD": "112.95",
+        "INCLINATION": "102.48",
+        "APOGEE": "1632",
+        "PERIGEE": "1092"
+      },
+      {
+        "PERIOD": "114.61",
+        "INCLINATION": "102.35",
+        "APOGEE": "1517",
+        "PERIGEE": "1358"
+      },
+      {
+        "PERIOD": "112.81",
+        "INCLINATION": "102.23",
+        "APOGEE": "1480",
+        "PERIGEE": "1231"
+      },
+      {
+        "PERIOD": "107.35",
+        "INCLINATION": "102.61",
+        "APOGEE": "1169",
+        "PERIGEE": "1038"
+      },
+      {
+        "PERIOD": "109.69",
+        "INCLINATION": "102.04",
+        "APOGEE": "1403",
+        "PERIGEE": "1022"
+      },
+      {
+        "PERIOD": "112.91",
+        "INCLINATION": "102.26",
+        "APOGEE": "1497",
+        "PERIGEE": "1223"
+      },
+      {
+        "PERIOD": "111.53",
+        "INCLINATION": "102.61",
+        "APOGEE": "1448",
+        "PERIGEE": "1146"
+      },
+      {
+        "PERIOD": "119.24",
+        "INCLINATION": "102.09",
+        "APOGEE": "1892",
+        "PERIGEE": "1402"
+      },
+      {
+        "PERIOD": "117.34",
+        "INCLINATION": "102.28",
+        "APOGEE": "1741",
+        "PERIGEE": "1381"
+      },
+      {
+        "PERIOD": "111.01",
+        "INCLINATION": "101.70",
+        "APOGEE": "1344",
+        "PERIGEE": "1203"
+      },
+      {
+        "PERIOD": "113.65",
+        "INCLINATION": "101.72",
+        "APOGEE": "1494",
+        "PERIGEE": "1294"
+      },
+      {
+        "PERIOD": "118.88",
+        "INCLINATION": "102.36",
+        "APOGEE": "1778",
+        "PERIGEE": "1484"
+      },
+      {
+        "PERIOD": "115.11",
+        "INCLINATION": "101.88",
+        "APOGEE": "1483",
+        "PERIGEE": "1438"
+      },
+      {
+        "PERIOD": "116.05",
+        "INCLINATION": "101.85",
+        "APOGEE": "1512",
+        "PERIGEE": "1494"
+      },
+      {
+        "PERIOD": "110.09",
+        "INCLINATION": "101.69",
+        "APOGEE": "1371",
+        "PERIGEE": "1091"
+      },
+      {
+        "PERIOD": "113.00",
+        "INCLINATION": "101.37",
+        "APOGEE": "1431",
+        "PERIGEE": "1298"
+      },
+      {
+        "PERIOD": "116.96",
+        "INCLINATION": "102.18",
+        "APOGEE": "1595",
+        "PERIGEE": "1494"
+      },
+      {
+        "PERIOD": "112.65",
+        "INCLINATION": "101.56",
+        "APOGEE": "1438",
+        "PERIGEE": "1259"
+      },
+      {
+        "PERIOD": "116.03",
+        "INCLINATION": "101.97",
+        "APOGEE": "1514",
+        "PERIGEE": "1490"
+      },
+      {
+        "PERIOD": "116.71",
+        "INCLINATION": "101.84",
+        "APOGEE": "1597",
+        "PERIGEE": "1469"
+      },
+      {
+        "PERIOD": "116.91",
+        "INCLINATION": "102.20",
+        "APOGEE": "1574",
+        "PERIGEE": "1510"
+      },
+      {
+        "PERIOD": "118.57",
+        "INCLINATION": "101.96",
+        "APOGEE": "1726",
+        "PERIGEE": "1507"
+      },
+      {
+        "PERIOD": "116.19",
+        "INCLINATION": "102.43",
+        "APOGEE": "1602",
+        "PERIGEE": "1417"
+      },
+      {
+        "PERIOD": "116.56",
+        "INCLINATION": "101.80",
+        "APOGEE": "1554",
+        "PERIGEE": "1499"
+      },
+      {
+        "PERIOD": "117.23",
+        "INCLINATION": "101.94",
+        "APOGEE": "1620",
+        "PERIGEE": "1492"
+      },
+      {
+        "PERIOD": "118.32",
+        "INCLINATION": "102.68",
+        "APOGEE": "1730",
+        "PERIGEE": "1481"
+      },
+      {
+        "PERIOD": "117.53",
+        "INCLINATION": "101.94",
+        "APOGEE": "1677",
+        "PERIGEE": "1463"
+      },
+      {
+        "PERIOD": "116.22",
+        "INCLINATION": "102.09",
+        "APOGEE": "1547",
+        "PERIGEE": "1475"
+      },
+      {
+        "PERIOD": "117.44",
+        "INCLINATION": "102.27",
+        "APOGEE": "1664",
+        "PERIGEE": "1467"
+      },
+      {
+        "PERIOD": "116.80",
+        "INCLINATION": "101.75",
+        "APOGEE": "1580",
+        "PERIGEE": "1494"
+      },
+      {
+        "PERIOD": "116.02",
+        "INCLINATION": "101.79",
+        "APOGEE": "1542",
+        "PERIGEE": "1461"
+      },
+      {
+        "PERIOD": "121.89",
+        "INCLINATION": "101.92",
+        "APOGEE": "2024",
+        "PERIGEE": "1507"
+      },
+      {
+        "PERIOD": "116.80",
+        "INCLINATION": "102.25",
+        "APOGEE": "1575",
+        "PERIGEE": "1499"
+      },
+      {
+        "PERIOD": "116.90",
+        "INCLINATION": "102.03",
+        "APOGEE": "1576",
+        "PERIGEE": "1507"
+      },
+      {
+        "PERIOD": "116.18",
+        "INCLINATION": "102.25",
+        "APOGEE": "1525",
+        "PERIGEE": "1493"
+      },
+      {
+        "PERIOD": "116.51",
+        "INCLINATION": "101.91",
+        "APOGEE": "1541",
+        "PERIGEE": "1506"
+      },
+      {
+        "PERIOD": "116.60",
+        "INCLINATION": "102.17",
+        "APOGEE": "1580",
+        "PERIGEE": "1476"
+      },
+      {
+        "PERIOD": "116.91",
+        "INCLINATION": "101.83",
+        "APOGEE": "1584",
+        "PERIGEE": "1499"
+      },
+      {
+        "PERIOD": "114.56",
+        "INCLINATION": "101.39",
+        "APOGEE": "1476",
+        "PERIGEE": "1395"
+      },
+      {
+        "PERIOD": "114.97",
+        "INCLINATION": "101.59",
+        "APOGEE": "1490",
+        "PERIGEE": "1418"
+      },
+      {
+        "PERIOD": "114.19",
+        "INCLINATION": "102.23",
+        "APOGEE": "1527",
+        "PERIGEE": "1310"
+      },
+      {
+        "PERIOD": "114.96",
+        "INCLINATION": "101.82",
+        "APOGEE": "1473",
+        "PERIGEE": "1434"
+      },
+      {
+        "PERIOD": "116.01",
+        "INCLINATION": "101.93",
+        "APOGEE": "1529",
+        "PERIGEE": "1473"
+      },
+      {
+        "PERIOD": "116.08",
+        "INCLINATION": "101.78",
+        "APOGEE": "1522",
+        "PERIGEE": "1486"
+      },
+      {
+        "PERIOD": "118.67",
+        "INCLINATION": "101.89",
+        "APOGEE": "1757",
+        "PERIGEE": "1486"
+      },
+      {
+        "PERIOD": "109.54",
+        "INCLINATION": "102.41",
+        "APOGEE": "1256",
+        "PERIGEE": "1155"
+      },
+      {
+        "PERIOD": "119.62",
+        "INCLINATION": "102.07",
+        "APOGEE": "1867",
+        "PERIGEE": "1461"
+      },
+      {
+        "PERIOD": "114.03",
+        "INCLINATION": "101.61",
+        "APOGEE": "1433",
+        "PERIGEE": "1390"
+      },
+      {
+        "PERIOD": "119.93",
+        "INCLINATION": "101.99",
+        "APOGEE": "1892",
+        "PERIGEE": "1464"
+      },
+      {
+        "PERIOD": "116.22",
+        "INCLINATION": "101.78",
+        "APOGEE": "1735",
+        "PERIGEE": "1287"
+      },
+      {
+        "PERIOD": "117.07",
+        "INCLINATION": "102.21",
+        "APOGEE": "1591",
+        "PERIGEE": "1507"
+      },
+      {
+        "PERIOD": "117.37",
+        "INCLINATION": "102.29",
+        "APOGEE": "1618",
+        "PERIGEE": "1507"
+      },
+      {
+        "PERIOD": "110.27",
+        "INCLINATION": "101.82",
+        "APOGEE": "1481",
+        "PERIGEE": "997"
+      },
+      {
+        "PERIOD": "120.40",
+        "INCLINATION": "102.04",
+        "APOGEE": "1924",
+        "PERIGEE": "1473"
+      },
+      {
+        "PERIOD": "112.31",
+        "INCLINATION": "102.43",
+        "APOGEE": "1535",
+        "PERIGEE": "1131"
+      },
+      {
+        "PERIOD": "105.58",
+        "INCLINATION": "102.14",
+        "APOGEE": "1171",
+        "PERIGEE": "873"
+      },
+      {
+        "PERIOD": "116.08",
+        "INCLINATION": "101.67",
+        "APOGEE": "1514",
+        "PERIGEE": "1495"
+      },
+      {
+        "PERIOD": "114.32",
+        "INCLINATION": "102.19",
+        "APOGEE": "1501",
+        "PERIGEE": "1348"
+      },
+      {
+        "PERIOD": "117.54",
+        "INCLINATION": "101.91",
+        "APOGEE": "1692",
+        "PERIGEE": "1449"
+      },
+      {
+        "PERIOD": "116.89",
+        "INCLINATION": "102.09",
+        "APOGEE": "1594",
+        "PERIGEE": "1488"
+      },
+      {
+        "PERIOD": "114.38",
+        "INCLINATION": "101.78",
+        "APOGEE": "1458",
+        "PERIGEE": "1397"
+      },
+      {
+        "PERIOD": "113.43",
+        "INCLINATION": "102.35",
+        "APOGEE": "1513",
+        "PERIGEE": "1255"
+      },
+      {
+        "PERIOD": "113.99",
+        "INCLINATION": "101.93",
+        "APOGEE": "1485",
+        "PERIGEE": "1335"
+      },
+      {
+        "PERIOD": "116.69",
+        "INCLINATION": "101.98",
+        "APOGEE": "1562",
+        "PERIGEE": "1502"
+      },
+      {
+        "PERIOD": "116.16",
+        "INCLINATION": "101.83",
+        "APOGEE": "1519",
+        "PERIGEE": "1497"
+      },
+      {
+        "PERIOD": "111.10",
+        "INCLINATION": "101.64",
+        "APOGEE": "1412",
+        "PERIGEE": "1142"
+      },
+      {
+        "PERIOD": "113.20",
+        "INCLINATION": "101.95",
+        "APOGEE": "1510",
+        "PERIGEE": "1237"
+      },
+      {
+        "PERIOD": "117.21",
+        "INCLINATION": "101.99",
+        "APOGEE": "1607",
+        "PERIGEE": "1504"
+      },
+      {
+        "PERIOD": "115.90",
+        "INCLINATION": "101.69",
+        "APOGEE": "1505",
+        "PERIGEE": "1488"
+      },
+      {
+        "PERIOD": "116.02",
+        "INCLINATION": "101.92",
+        "APOGEE": "1508",
+        "PERIGEE": "1496"
+      },
+      {
+        "PERIOD": "106.61",
+        "INCLINATION": "102.80",
+        "APOGEE": "1266",
+        "PERIGEE": "873"
+      },
+      {
+        "PERIOD": "112.39",
+        "INCLINATION": "102.34",
+        "APOGEE": "1502",
+        "PERIGEE": "1171"
+      },
+      {
+        "PERIOD": "116.25",
+        "INCLINATION": "101.75",
+        "APOGEE": "1556",
+        "PERIGEE": "1467"
+      },
+      {
+        "PERIOD": "116.75",
+        "INCLINATION": "101.94",
+        "APOGEE": "1571",
+        "PERIGEE": "1499"
+      },
+      {
+        "PERIOD": "112.95",
+        "INCLINATION": "101.48",
+        "APOGEE": "1503",
+        "PERIGEE": "1221"
+      },
+      {
+        "PERIOD": "110.81",
+        "INCLINATION": "102.44",
+        "APOGEE": "1490",
+        "PERIGEE": "1038"
+      },
+      {
+        "PERIOD": "114.72",
+        "INCLINATION": "102.54",
+        "APOGEE": "1553",
+        "PERIGEE": "1332"
+      },
+      {
+        "PERIOD": "115.70",
+        "INCLINATION": "101.86",
+        "APOGEE": "1507",
+        "PERIGEE": "1468"
+      },
+      {
+        "PERIOD": "117.48",
+        "INCLINATION": "101.95",
+        "APOGEE": "1653",
+        "PERIGEE": "1481"
+      },
+      {
+        "PERIOD": "114.94",
+        "INCLINATION": "101.50",
+        "APOGEE": "1463",
+        "PERIGEE": "1443"
+      },
+      {
+        "PERIOD": "116.79",
+        "INCLINATION": "102.11",
+        "APOGEE": "1564",
+        "PERIGEE": "1509"
+      },
+      {
+        "PERIOD": "117.65",
+        "INCLINATION": "102.26",
+        "APOGEE": "1645",
+        "PERIGEE": "1506"
+      },
+      {
+        "PERIOD": "121.63",
+        "INCLINATION": "102.70",
+        "APOGEE": "2034",
+        "PERIGEE": "1473"
+      },
+      {
+        "PERIOD": "110.49",
+        "INCLINATION": "101.45",
+        "APOGEE": "1489",
+        "PERIGEE": "1009"
+      },
+      {
+        "PERIOD": "115.38",
+        "INCLINATION": "102.10",
+        "APOGEE": "1507",
+        "PERIGEE": "1439"
+      },
+      {
+        "PERIOD": "116.39",
+        "INCLINATION": "101.97",
+        "APOGEE": "1537",
+        "PERIGEE": "1500"
+      },
+      {
+        "PERIOD": "117.20",
+        "INCLINATION": "102.23",
+        "APOGEE": "1607",
+        "PERIGEE": "1502"
+      },
+      {
+        "PERIOD": "114.66",
+        "INCLINATION": "101.43",
+        "APOGEE": "1477",
+        "PERIGEE": "1402"
+      },
+      {
+        "PERIOD": "120.69",
+        "INCLINATION": "101.83",
+        "APOGEE": "1918",
+        "PERIGEE": "1506"
+      },
+      {
+        "PERIOD": "125.15",
+        "INCLINATION": "101.63",
+        "APOGEE": "2314",
+        "PERIGEE": "1505"
+      },
+      {
+        "PERIOD": "117.14",
+        "INCLINATION": "102.19",
+        "APOGEE": "1599",
+        "PERIGEE": "1506"
+      },
+      {
+        "PERIOD": "117.46",
+        "INCLINATION": "102.26",
+        "APOGEE": "1629",
+        "PERIGEE": "1505"
+      },
+      {
+        "PERIOD": "115.72",
+        "INCLINATION": "102.49",
+        "APOGEE": "1559",
+        "PERIGEE": "1418"
+      },
+      {
+        "PERIOD": "112.09",
+        "INCLINATION": "102.12",
+        "APOGEE": "1490",
+        "PERIGEE": "1156"
+      },
+      {
+        "PERIOD": "107.20",
+        "INCLINATION": "101.73",
+        "APOGEE": "1341",
+        "PERIGEE": "853"
+      },
+      {
+        "PERIOD": "116.78",
+        "INCLINATION": "101.55",
+        "APOGEE": "1678",
+        "PERIGEE": "1394"
+      },
+      {
+        "PERIOD": "112.37",
+        "INCLINATION": "102.50",
+        "APOGEE": "1486",
+        "PERIGEE": "1185"
+      },
+      {
+        "PERIOD": "115.28",
+        "INCLINATION": "102.50",
+        "APOGEE": "1571",
+        "PERIGEE": "1366"
+      },
+      {
+        "PERIOD": "117.71",
+        "INCLINATION": "102.17",
+        "APOGEE": "1679",
+        "PERIGEE": "1478"
+      },
+      {
+        "PERIOD": "121.37",
+        "INCLINATION": "101.98",
+        "APOGEE": "2004",
+        "PERIGEE": "1480"
+      },
+      {
+        "PERIOD": "115.04",
+        "INCLINATION": "101.56",
+        "APOGEE": "1467",
+        "PERIGEE": "1447"
+      },
+      {
+        "PERIOD": "121.72",
+        "INCLINATION": "101.74",
+        "APOGEE": "2017",
+        "PERIGEE": "1499"
+      },
+      {
+        "PERIOD": "115.80",
+        "INCLINATION": "101.64",
+        "APOGEE": "1506",
+        "PERIGEE": "1478"
+      },
+      {
+        "PERIOD": "115.96",
+        "INCLINATION": "102.04",
+        "APOGEE": "1519",
+        "PERIGEE": "1478"
+      },
+      {
+        "PERIOD": "116.63",
+        "INCLINATION": "101.98",
+        "APOGEE": "1553",
+        "PERIGEE": "1506"
+      },
+      {
+        "PERIOD": "116.27",
+        "INCLINATION": "101.85",
+        "APOGEE": "1522",
+        "PERIGEE": "1504"
+      },
+      {
+        "PERIOD": "117.66",
+        "INCLINATION": "102.28",
+        "APOGEE": "1648",
+        "PERIGEE": "1503"
+      },
+      {
+        "PERIOD": "116.40",
+        "INCLINATION": "101.98",
+        "APOGEE": "1529",
+        "PERIGEE": "1509"
+      },
+      {
+        "PERIOD": "117.59",
+        "INCLINATION": "102.30",
+        "APOGEE": "1638",
+        "PERIGEE": "1507"
+      },
+      {
+        "PERIOD": "116.72",
+        "INCLINATION": "101.90",
+        "APOGEE": "1579",
+        "PERIGEE": "1487"
+      },
+      {
+        "PERIOD": "114.16",
+        "INCLINATION": "102.08",
+        "APOGEE": "1518",
+        "PERIGEE": "1317"
+      },
+      {
+        "PERIOD": "124.76",
+        "INCLINATION": "101.89",
+        "APOGEE": "2274",
+        "PERIGEE": "1510"
+      },
+      {
+        "PERIOD": "112.71",
+        "INCLINATION": "101.86",
+        "APOGEE": "1405",
+        "PERIGEE": "1297"
+      },
+      {
+        "PERIOD": "116.51",
+        "INCLINATION": "101.86",
+        "APOGEE": "1545",
+        "PERIGEE": "1503"
+      },
+      {
+        "PERIOD": "115.73",
+        "INCLINATION": "102.31",
+        "APOGEE": "1637",
+        "PERIGEE": "1340"
+      },
+      {
+        "PERIOD": "117.11",
+        "INCLINATION": "101.64",
+        "APOGEE": "1697",
+        "PERIGEE": "1405"
+      },
+      {
+        "PERIOD": "118.58",
+        "INCLINATION": "102.02",
+        "APOGEE": "1745",
+        "PERIGEE": "1489"
+      },
+      {
+        "PERIOD": "115.90",
+        "INCLINATION": "101.85",
+        "APOGEE": "1547",
+        "PERIGEE": "1446"
+      },
+      {
+        "PERIOD": "116.23",
+        "INCLINATION": "101.98",
+        "APOGEE": "1521",
+        "PERIGEE": "1501"
+      },
+      {
+        "PERIOD": "115.05",
+        "INCLINATION": "102.18",
+        "APOGEE": "1576",
+        "PERIGEE": "1339"
+      },
+      {
+        "PERIOD": "125.73",
+        "INCLINATION": "101.69",
+        "APOGEE": "2371",
+        "PERIGEE": "1500"
+      },
+      {
+        "PERIOD": "123.48",
+        "INCLINATION": "101.78",
+        "APOGEE": "2165",
+        "PERIGEE": "1507"
+      },
+      {
+        "PERIOD": "108.88",
+        "INCLINATION": "101.68",
+        "APOGEE": "1482",
+        "PERIGEE": "869"
+      },
+      {
+        "PERIOD": "115.06",
+        "INCLINATION": "101.62",
+        "APOGEE": "1511",
+        "PERIGEE": "1405"
+      },
+      {
+        "PERIOD": "115.45",
+        "INCLINATION": "101.56",
+        "APOGEE": "1524",
+        "PERIGEE": "1427"
+      },
+      {
+        "PERIOD": "105.34",
+        "INCLINATION": "65.90",
+        "APOGEE": "1480",
+        "PERIGEE": "541"
+      },
+      {
+        "PERIOD": "102.50",
+        "INCLINATION": "65.67",
+        "APOGEE": "1232",
+        "PERIGEE": "522"
+      },
+      {
+        "PERIOD": "115.68",
+        "INCLINATION": "66.73",
+        "APOGEE": "2005",
+        "PERIGEE": "968"
+      },
+      {
+        "PERIOD": "114.62",
+        "INCLINATION": "95.52",
+        "APOGEE": "1442",
+        "PERIGEE": "1434"
+      },
+      {
+        "PERIOD": "114.77",
+        "INCLINATION": "95.81",
+        "APOGEE": "1486",
+        "PERIGEE": "1404"
+      },
+      {
+        "PERIOD": "103.31",
+        "INCLINATION": "99.15",
+        "APOGEE": "930",
+        "PERIGEE": "900"
+      },
+      {
+        "PERIOD": "102.94",
+        "INCLINATION": "100.15",
+        "APOGEE": "955",
+        "PERIGEE": "841"
+      },
+      {
+        "PERIOD": "106.32",
+        "INCLINATION": "99.78",
+        "APOGEE": "1068",
+        "PERIGEE": "1044"
+      },
+      {
+        "PERIOD": "116.39",
+        "INCLINATION": "62.33",
+        "APOGEE": "2136",
+        "PERIGEE": "901"
+      },
+      {
+        "PERIOD": "110.33",
+        "INCLINATION": "62.28",
+        "APOGEE": "1772",
+        "PERIGEE": "711"
+      },
+      {
+        "PERIOD": "102.09",
+        "INCLINATION": "66.90",
+        "APOGEE": "910",
+        "PERIGEE": "806"
+      },
+      {
+        "PERIOD": "103.41",
+        "INCLINATION": "66.60",
+        "APOGEE": "1019",
+        "PERIGEE": "821"
+      },
+      {
+        
+      },
+      {
+        
+      },
+      {
+        
+      },
+      {
+        "PERIOD": "96.91",
+        "INCLINATION": "74.11",
+        "APOGEE": "616",
+        "PERIGEE": "606"
+      },
+      {
+        "PERIOD": "108.56",
+        "INCLINATION": "73.98",
+        "APOGEE": "1171",
+        "PERIGEE": "1150"
+      },
+      {
+        "PERIOD": "98.49",
+        "INCLINATION": "90.46",
+        "APOGEE": "721",
+        "PERIGEE": "653"
+      },
+      {
+        "PERIOD": "104.10",
+        "INCLINATION": "82.86",
+        "APOGEE": "958",
+        "PERIGEE": "947"
+      },
+      {
+        "PERIOD": "117.08",
+        "INCLINATION": "56.04",
+        "APOGEE": "1701",
+        "PERIGEE": "1399"
+      },
+      {
+        "PERIOD": "100.73",
+        "INCLINATION": "99.04",
+        "APOGEE": "967",
+        "PERIGEE": "619"
+      },
+      {
+        "PERIOD": "114.10",
+        "INCLINATION": "101.34",
+        "APOGEE": "1506",
+        "PERIGEE": "1324"
+      },
+      {
+        "PERIOD": "109.99",
+        "INCLINATION": "101.87",
+        "APOGEE": "1269",
+        "PERIGEE": "1184"
+      },
+      {
+        "PERIOD": "104.85",
+        "INCLINATION": "65.83",
+        "APOGEE": "991",
+        "PERIGEE": "984"
+      },
+      {
+        "PERIOD": "110.22",
+        "INCLINATION": "65.73",
+        "APOGEE": "1589",
+        "PERIGEE": "884"
+      },
+      {
+        "PERIOD": "105.43",
+        "INCLINATION": "100.13",
+        "APOGEE": "1037",
+        "PERIGEE": "992"
+      },
+      {
+        "PERIOD": "100.58",
+        "INCLINATION": "100.45",
+        "APOGEE": "836",
+        "PERIGEE": "736"
+      },
+      {
+        "PERIOD": "112.06",
+        "INCLINATION": "101.22",
+        "APOGEE": "1362",
+        "PERIGEE": "1281"
+      },
+      {
+        "PERIOD": "102.50",
+        "INCLINATION": "99.89",
+        "APOGEE": "884",
+        "PERIGEE": "870"
+      },
+      {
+        "PERIOD": "103.44",
+        "INCLINATION": "99.14",
+        "APOGEE": "975",
+        "PERIGEE": "868"
+      },
+      {
+        "PERIOD": "97.89",
+        "INCLINATION": "74.07",
+        "APOGEE": "666",
+        "PERIGEE": "649"
+      },
+      {
+        "PERIOD": "96.96",
+        "INCLINATION": "74.04",
+        "APOGEE": "617",
+        "PERIGEE": "609"
+      },
+      {
+        "PERIOD": "103.36",
+        "INCLINATION": "100.01",
+        "APOGEE": "961",
+        "PERIGEE": "874"
+      },
+      {
+        "PERIOD": "480.84",
+        "INCLINATION": "26.64",
+        "APOGEE": "27364",
+        "PERIGEE": "542"
+      },
+      {
+        "PERIOD": "540.98",
+        "INCLINATION": "26.97",
+        "APOGEE": "30155",
+        "PERIGEE": "1075"
+      },
+      {
+        "PERIOD": "546.21",
+        "INCLINATION": "27.34",
+        "APOGEE": "30271",
+        "PERIGEE": "1241"
+      },
+      {
+        "PERIOD": "502.94",
+        "INCLINATION": "26.50",
+        "APOGEE": "28671",
+        "PERIGEE": "472"
+      },
+      {
+        "PERIOD": "418.01",
+        "INCLINATION": "26.87",
+        "APOGEE": "23836",
+        "PERIGEE": "445"
+      },
+      {
+        "PERIOD": "467.77",
+        "INCLINATION": "25.56",
+        "APOGEE": "26869",
+        "PERIGEE": "297"
+      },
+      {
+        "PERIOD": "113.09",
+        "INCLINATION": "101.93",
+        "APOGEE": "1456",
+        "PERIGEE": "1281"
+      },
+      {
+        "PERIOD": "111.65",
+        "INCLINATION": "101.67",
+        "APOGEE": "1392",
+        "PERIGEE": "1213"
+      },
+      {
+        "PERIOD": "105.81",
+        "INCLINATION": "99.41",
+        "APOGEE": "1073",
+        "PERIGEE": "992"
+      },
+      {
+        "PERIOD": "101.19",
+        "INCLINATION": "99.65",
+        "APOGEE": "844",
+        "PERIGEE": "786"
+      },
+      {
+        "PERIOD": "105.13",
+        "INCLINATION": "47.03",
+        "APOGEE": "1031",
+        "PERIGEE": "971"
+      },
+      {
+        "PERIOD": "115.44",
+        "INCLINATION": "65.67",
+        "APOGEE": "2046",
+        "PERIGEE": "904"
+      },
+      {
+        "PERIOD": "110.47",
+        "INCLINATION": "62.81",
+        "APOGEE": "1965",
+        "PERIGEE": "533"
+      },
+      {
+        "PERIOD": "97.62",
+        "INCLINATION": "74.01",
+        "APOGEE": "649",
+        "PERIGEE": "640"
+      },
+      {
+        "PERIOD": "99.02",
+        "INCLINATION": "100.00",
+        "APOGEE": "740",
+        "PERIGEE": "683"
+      },
+      {
+        "PERIOD": "103.35",
+        "INCLINATION": "66.68",
+        "APOGEE": "977",
+        "PERIGEE": "857"
+      },
+      {
+        "PERIOD": "108.58",
+        "INCLINATION": "97.89",
+        "APOGEE": "1625",
+        "PERIGEE": "697"
+      },
+      {
+        "PERIOD": "96.83",
+        "INCLINATION": "66.59",
+        "APOGEE": "650",
+        "PERIGEE": "564"
+      },
+      {
+        "PERIOD": "99.42",
+        "INCLINATION": "70.00",
+        "APOGEE": "754",
+        "PERIGEE": "707"
+      },
+      {
+        "PERIOD": "103.06",
+        "INCLINATION": "67.12",
+        "APOGEE": "991",
+        "PERIGEE": "816"
+      },
+      {
+        "PERIOD": "104.24",
+        "INCLINATION": "65.64",
+        "APOGEE": "1068",
+        "PERIGEE": "850"
+      },
+      {
+        "PERIOD": "97.95",
+        "INCLINATION": "74.01",
+        "APOGEE": "667",
+        "PERIGEE": "654"
+      },
+      {
+        "PERIOD": "108.17",
+        "INCLINATION": "66.90",
+        "APOGEE": "1424",
+        "PERIGEE": "860"
+      },
+      {
+        "PERIOD": "104.30",
+        "INCLINATION": "69.81",
+        "APOGEE": "996",
+        "PERIGEE": "928"
+      },
+      {
+        "PERIOD": "100.40",
+        "INCLINATION": "69.93",
+        "APOGEE": "782",
+        "PERIGEE": "773"
+      },
+      {
+        "PERIOD": "105.60",
+        "INCLINATION": "67.56",
+        "APOGEE": "1115",
+        "PERIGEE": "930"
+      },
+      {
+        "PERIOD": "102.35",
+        "INCLINATION": "66.30",
+        "APOGEE": "901",
+        "PERIGEE": "839"
+      },
+      {
+        "PERIOD": "101.75",
+        "INCLINATION": "67.07",
+        "APOGEE": "897",
+        "PERIGEE": "787"
+      },
+      {
+        "PERIOD": "109.74",
+        "INCLINATION": "101.41",
+        "APOGEE": "1387",
+        "PERIGEE": "1043"
+      },
+      {
+        "PERIOD": "102.45",
+        "INCLINATION": "66.73",
+        "APOGEE": "950",
+        "PERIGEE": "800"
+      },
+      {
+        "PERIOD": "99.18",
+        "INCLINATION": "66.70",
+        "APOGEE": "785",
+        "PERIGEE": "654"
+      },
+      {
+        "PERIOD": "105.91",
+        "INCLINATION": "66.57",
+        "APOGEE": "1163",
+        "PERIGEE": "911"
+      },
+      {
+        "PERIOD": "105.97",
+        "INCLINATION": "99.71",
+        "APOGEE": "1046",
+        "PERIGEE": "1034"
+      },
+      {
+        "PERIOD": "106.38",
+        "INCLINATION": "99.39",
+        "APOGEE": "1102",
+        "PERIGEE": "1017"
+      },
+      {
+        "PERIOD": "98.63",
+        "INCLINATION": "99.82",
+        "APOGEE": "710",
+        "PERIGEE": "677"
+      },
+      {
+        "PERIOD": "106.46",
+        "INCLINATION": "99.67",
+        "APOGEE": "1149",
+        "PERIGEE": "976"
+      },
+      {
+        "PERIOD": "103.04",
+        "INCLINATION": "99.15",
+        "APOGEE": "924",
+        "PERIGEE": "880"
+      },
+      {
+        "PERIOD": "106.61",
+        "INCLINATION": "99.85",
+        "APOGEE": "1107",
+        "PERIGEE": "1032"
+      },
+      {
+        "PERIOD": "100.62",
+        "INCLINATION": "69.95",
+        "APOGEE": "790",
+        "PERIGEE": "786"
+      },
+      {
+        "PERIOD": "352.45",
+        "INCLINATION": "26.07",
+        "APOGEE": "19879",
+        "PERIGEE": "420"
+      },
+      {
+        "PERIOD": "99.99",
+        "INCLINATION": "144.62",
+        "APOGEE": "791",
+        "PERIGEE": "726"
+      },
+      {
+        "PERIOD": "99.12",
+        "INCLINATION": "66.57",
+        "APOGEE": "740",
+        "PERIGEE": "694"
+      },
+      {
+        "PERIOD": "96.99",
+        "INCLINATION": "62.72",
+        "APOGEE": "747",
+        "PERIGEE": "482"
+      },
+      {
+        "PERIOD": "100.84",
+        "INCLINATION": "66.67",
+        "APOGEE": "821",
+        "PERIGEE": "776"
+      },
+      {
+        "PERIOD": "100.60",
+        "INCLINATION": "66.85",
+        "APOGEE": "830",
+        "PERIGEE": "744"
+      },
+      {
+        "PERIOD": "102.77",
+        "INCLINATION": "66.90",
+        "APOGEE": "954",
+        "PERIGEE": "825"
+      },
+      {
+        "PERIOD": "100.19",
+        "INCLINATION": "70.06",
+        "APOGEE": "805",
+        "PERIGEE": "730"
+      },
+      {
+        "PERIOD": "541.83",
+        "INCLINATION": "27.71",
+        "APOGEE": "30215",
+        "PERIGEE": "1060"
+      },
+      {
+        "PERIOD": "101.93",
+        "INCLINATION": "99.32",
+        "APOGEE": "873",
+        "PERIGEE": "827"
+      },
+      {
+        "PERIOD": "100.39",
+        "INCLINATION": "99.53",
+        "APOGEE": "799",
+        "PERIGEE": "756"
+      },
+      {
+        "PERIOD": "531.12",
+        "INCLINATION": "27.34",
+        "APOGEE": "29811",
+        "PERIGEE": "882"
+      },
+      {
+        "PERIOD": "108.85",
+        "INCLINATION": "89.83",
+        "APOGEE": "1411",
+        "PERIGEE": "937"
+      },
+      {
+        "PERIOD": "105.34",
+        "INCLINATION": "100.45",
+        "APOGEE": "1076",
+        "PERIGEE": "945"
+      },
+      {
+        "PERIOD": "114.58",
+        "INCLINATION": "101.41",
+        "APOGEE": "1486",
+        "PERIGEE": "1388"
+      },
+      {
+        "PERIOD": "101.69",
+        "INCLINATION": "70.11",
+        "APOGEE": "885",
+        "PERIGEE": "792"
+      },
+      {
+        "PERIOD": "97.96",
+        "INCLINATION": "49.54",
+        "APOGEE": "716",
+        "PERIGEE": "607"
+      },
+      {
+        "PERIOD": "101.46",
+        "INCLINATION": "100.04",
+        "APOGEE": "905",
+        "PERIGEE": "751"
+      },
+      {
+        "PERIOD": "104.77",
+        "INCLINATION": "65.79",
+        "APOGEE": "1042",
+        "PERIGEE": "925"
+      },
+      {
+        "PERIOD": "102.73",
+        "INCLINATION": "66.77",
+        "APOGEE": "953",
+        "PERIGEE": "822"
+      },
+      {
+        "PERIOD": "102.69",
+        "INCLINATION": "100.04",
+        "APOGEE": "923",
+        "PERIGEE": "849"
+      },
+      {
+        "PERIOD": "104.29",
+        "INCLINATION": "100.03",
+        "APOGEE": "1001",
+        "PERIGEE": "921"
+      },
+      {
+        "PERIOD": "109.86",
+        "INCLINATION": "99.90",
+        "APOGEE": "1375",
+        "PERIGEE": "1065"
+      },
+      {
+        "PERIOD": "107.88",
+        "INCLINATION": "99.75",
+        "APOGEE": "1233",
+        "PERIGEE": "1024"
+      },
+      {
+        "PERIOD": "119.36",
+        "INCLINATION": "101.05",
+        "APOGEE": "2124",
+        "PERIGEE": "1181"
+      },
+      {
+        "PERIOD": "101.15",
+        "INCLINATION": "87.63",
+        "APOGEE": "873",
+        "PERIGEE": "754"
+      },
+      {
+        "PERIOD": "101.24",
+        "INCLINATION": "144.62",
+        "APOGEE": "841",
+        "PERIGEE": "794"
+      },
+      {
+        "PERIOD": "113.58",
+        "INCLINATION": "88.29",
+        "APOGEE": "1423",
+        "PERIGEE": "1359"
+      },
+      {
+        "PERIOD": "105.14",
+        "INCLINATION": "99.98",
+        "APOGEE": "1004",
+        "PERIGEE": "998"
+      },
+      {
+        "PERIOD": "96.00",
+        "INCLINATION": "74.02",
+        "APOGEE": "569",
+        "PERIGEE": "564"
+      },
+      {
+        "PERIOD": "103.10",
+        "INCLINATION": "99.84",
+        "APOGEE": "959",
+        "PERIGEE": "851"
+      },
+      {
+        "PERIOD": "104.14",
+        "INCLINATION": "100.00",
+        "APOGEE": "988",
+        "PERIGEE": "921"
+      },
+      {
+        "PERIOD": "111.46",
+        "INCLINATION": "62.95",
+        "APOGEE": "1930",
+        "PERIGEE": "658"
+      },
+      {
+        "PERIOD": "109.80",
+        "INCLINATION": "61.29",
+        "APOGEE": "1772",
+        "PERIGEE": "663"
+      },
+      {
+        "PERIOD": "98.22",
+        "INCLINATION": "74.03",
+        "APOGEE": "682",
+        "PERIGEE": "665"
+      },
+      {
+        "PERIOD": "96.29",
+        "INCLINATION": "74.02",
+        "APOGEE": "584",
+        "PERIGEE": "579"
+      },
+      {
+        "PERIOD": "108.10",
+        "INCLINATION": "65.66",
+        "APOGEE": "1715",
+        "PERIGEE": "562"
+      },
+      {
+        "PERIOD": "110.94",
+        "INCLINATION": "65.74",
+        "APOGEE": "1971",
+        "PERIGEE": "569"
+      },
+      {
+        "PERIOD": "108.02",
+        "INCLINATION": "65.56",
+        "APOGEE": "1715",
+        "PERIGEE": "555"
+      },
+      {
+        "PERIOD": "107.35",
+        "INCLINATION": "90.11",
+        "APOGEE": "1133",
+        "PERIGEE": "1075"
+      },
+      {
+        "PERIOD": "112.75",
+        "INCLINATION": "62.88",
+        "APOGEE": "2011",
+        "PERIGEE": "695"
+      },
+      {
+        "PERIOD": "103.61",
+        "INCLINATION": "74.02",
+        "APOGEE": "942",
+        "PERIGEE": "916"
+      },
+      {
+        "PERIOD": "106.93",
+        "INCLINATION": "65.72",
+        "APOGEE": "1614",
+        "PERIGEE": "555"
+      },
+      {
+        "PERIOD": "111.68",
+        "INCLINATION": "99.84",
+        "APOGEE": "1605",
+        "PERIGEE": "1003"
+      },
+      {
+        "PERIOD": "109.49",
+        "INCLINATION": "99.85",
+        "APOGEE": "1374",
+        "PERIGEE": "1033"
+      },
+      {
+        "PERIOD": "108.00",
+        "INCLINATION": "65.54",
+        "APOGEE": "1697",
+        "PERIGEE": "572"
+      },
+      {
+        "PERIOD": "100.54",
+        "INCLINATION": "65.56",
+        "APOGEE": "1046",
+        "PERIGEE": "522"
+      },
+      {
+        "PERIOD": "98.44",
+        "INCLINATION": "62.59",
+        "APOGEE": "903",
+        "PERIGEE": "465"
+      },
+      {
+        "PERIOD": "114.37",
+        "INCLINATION": "64.00",
+        "APOGEE": "2127",
+        "PERIGEE": "727"
+      },
+      {
+        "PERIOD": "105.96",
+        "INCLINATION": "65.65",
+        "APOGEE": "1543",
+        "PERIGEE": "536"
+      },
+      {
+        "PERIOD": "103.95",
+        "INCLINATION": "99.63",
+        "APOGEE": "997",
+        "PERIGEE": "894"
+      },
+      {
+        "PERIOD": "104.71",
+        "INCLINATION": "100.09",
+        "APOGEE": "1005",
+        "PERIGEE": "956"
+      },
+      {
+        "PERIOD": "96.97",
+        "INCLINATION": "99.71",
+        "APOGEE": "623",
+        "PERIGEE": "603"
+      },
+      {
+        "PERIOD": "106.45",
+        "INCLINATION": "65.69",
+        "APOGEE": "1592",
+        "PERIGEE": "533"
+      },
+      {
+        "PERIOD": "101.97",
+        "INCLINATION": "65.35",
+        "APOGEE": "1173",
+        "PERIGEE": "531"
+      },
+      {
+        "PERIOD": "99.61",
+        "INCLINATION": "99.85",
+        "APOGEE": "743",
+        "PERIGEE": "737"
+      },
+      {
+        "PERIOD": "106.23",
+        "INCLINATION": "100.15",
+        "APOGEE": "1077",
+        "PERIGEE": "1027"
+      },
+      {
+        "PERIOD": "105.67",
+        "INCLINATION": "100.05",
+        "APOGEE": "1027",
+        "PERIGEE": "1025"
+      },
+      {
+        "PERIOD": "103.92",
+        "INCLINATION": "99.49",
+        "APOGEE": "1013",
+        "PERIGEE": "874"
+      },
+      {
+        "PERIOD": "101.79",
+        "INCLINATION": "99.64",
+        "APOGEE": "887",
+        "PERIGEE": "800"
+      },
+      {
+        "PERIOD": "105.74",
+        "INCLINATION": "99.90",
+        "APOGEE": "1061",
+        "PERIGEE": "997"
+      },
+      {
+        "PERIOD": "104.16",
+        "INCLINATION": "65.72",
+        "APOGEE": "1375",
+        "PERIGEE": "535"
+      },
+      {
+        "PERIOD": "106.86",
+        "INCLINATION": "99.32",
+        "APOGEE": "1234",
+        "PERIGEE": "928"
+      },
+      {
+        "PERIOD": "98.63",
+        "INCLINATION": "65.74",
+        "APOGEE": "883",
+        "PERIGEE": "503"
+      },
+      {
+        "PERIOD": "107.76",
+        "INCLINATION": "65.84",
+        "APOGEE": "1696",
+        "PERIGEE": "550"
+      },
+      {
+        "PERIOD": "108.53",
+        "INCLINATION": "65.74",
+        "APOGEE": "1772",
+        "PERIGEE": "546"
+      },
+      {
+        "PERIOD": "103.24",
+        "INCLINATION": "65.69",
+        "APOGEE": "1290",
+        "PERIGEE": "534"
+      },
+      {
+        "PERIOD": "104.20",
+        "INCLINATION": "65.71",
+        "APOGEE": "1381",
+        "PERIGEE": "533"
+      },
+      {
+        "PERIOD": "109.06",
+        "INCLINATION": "65.71",
+        "APOGEE": "1803",
+        "PERIGEE": "564"
+      },
+      {
+        "PERIOD": "112.14",
+        "INCLINATION": "62.79",
+        "APOGEE": "2115",
+        "PERIGEE": "535"
+      },
+      {
+        "PERIOD": "105.64",
+        "INCLINATION": "99.97",
+        "APOGEE": "1030",
+        "PERIGEE": "1019"
+      },
+      {
+        "PERIOD": "103.07",
+        "INCLINATION": "99.86",
+        "APOGEE": "953",
+        "PERIGEE": "855"
+      },
+      {
+        "PERIOD": "100.64",
+        "INCLINATION": "99.87",
+        "APOGEE": "800",
+        "PERIGEE": "777"
+      },
+      {
+        "PERIOD": "95.73",
+        "INCLINATION": "99.68",
+        "APOGEE": "560",
+        "PERIGEE": "548"
+      },
+      {
+        "PERIOD": "101.91",
+        "INCLINATION": "100.01",
+        "APOGEE": "960",
+        "PERIGEE": "738"
+      },
+      {
+        "PERIOD": "104.86",
+        "INCLINATION": "65.82",
+        "APOGEE": "994",
+        "PERIGEE": "981"
+      },
+      {
+        "PERIOD": "105.93",
+        "INCLINATION": "65.62",
+        "APOGEE": "1530",
+        "PERIGEE": "545"
+      },
+      {
+        "PERIOD": "101.48",
+        "INCLINATION": "89.87",
+        "APOGEE": "848",
+        "PERIGEE": "809"
+      },
+      {
+        "PERIOD": "109.84",
+        "INCLINATION": "63.26",
+        "APOGEE": "1810",
+        "PERIGEE": "628"
+      },
+      {
+        "PERIOD": "105.05",
+        "INCLINATION": "100.22",
+        "APOGEE": "1025",
+        "PERIGEE": "969"
+      },
+      {
+        "PERIOD": "106.73",
+        "INCLINATION": "100.05",
+        "APOGEE": "1108",
+        "PERIGEE": "1042"
+      },
+      {
+        "PERIOD": "101.70",
+        "INCLINATION": "99.82",
+        "APOGEE": "905",
+        "PERIGEE": "773"
+      },
+      {
+        "PERIOD": "107.46",
+        "INCLINATION": "62.93",
+        "APOGEE": "1675",
+        "PERIGEE": "543"
+      },
+      {
+        "PERIOD": "103.39",
+        "INCLINATION": "65.69",
+        "APOGEE": "1308",
+        "PERIGEE": "529"
+      },
+      {
+        "PERIOD": "112.54",
+        "INCLINATION": "65.71",
+        "APOGEE": "2124",
+        "PERIGEE": "562"
+      },
+      {
+        "PERIOD": "107.87",
+        "INCLINATION": "65.71",
+        "APOGEE": "1711",
+        "PERIGEE": "546"
+      },
+      {
+        "PERIOD": "106.89",
+        "INCLINATION": "65.82",
+        "APOGEE": "1620",
+        "PERIGEE": "545"
+      },
+      {
+        "PERIOD": "106.61",
+        "INCLINATION": "65.71",
+        "APOGEE": "1594",
+        "PERIGEE": "545"
+      },
+      {
+        "PERIOD": "105.60",
+        "INCLINATION": "65.60",
+        "APOGEE": "1496",
+        "PERIGEE": "549"
+      },
+      {
+        "PERIOD": "110.01",
+        "INCLINATION": "65.79",
+        "APOGEE": "1904",
+        "PERIGEE": "551"
+      },
+      {
+        "PERIOD": "103.22",
+        "INCLINATION": "65.75",
+        "APOGEE": "1307",
+        "PERIGEE": "515"
+      },
+      {
+        "PERIOD": "103.19",
+        "INCLINATION": "65.67",
+        "APOGEE": "1290",
+        "PERIGEE": "529"
+      },
+      {
+        "PERIOD": "106.65",
+        "INCLINATION": "65.84",
+        "APOGEE": "1600",
+        "PERIGEE": "543"
+      },
+      {
+        "PERIOD": "113.58",
+        "INCLINATION": "99.75",
+        "APOGEE": "1775",
+        "PERIGEE": "1007"
+      },
+      {
+        "PERIOD": "106.45",
+        "INCLINATION": "99.89",
+        "APOGEE": "1070",
+        "PERIGEE": "1055"
+      },
+      {
+        "PERIOD": "103.32",
+        "INCLINATION": "99.92",
+        "APOGEE": "951",
+        "PERIGEE": "881"
+      },
+      {
+        "PERIOD": "103.22",
+        "INCLINATION": "100.35",
+        "APOGEE": "973",
+        "PERIGEE": "849"
+      },
+      {
+        "PERIOD": "103.14",
+        "INCLINATION": "100.19",
+        "APOGEE": "976",
+        "PERIGEE": "838"
+      },
+      {
+        "PERIOD": "105.89",
+        "INCLINATION": "99.99",
+        "APOGEE": "1048",
+        "PERIGEE": "1024"
+      },
+      {
+        "PERIOD": "106.41",
+        "INCLINATION": "100.01",
+        "APOGEE": "1076",
+        "PERIGEE": "1044"
+      },
+      {
+        "PERIOD": "103.36",
+        "INCLINATION": "100.01",
+        "APOGEE": "964",
+        "PERIGEE": "872"
+      },
+      {
+        "PERIOD": "105.63",
+        "INCLINATION": "99.71",
+        "APOGEE": "1122",
+        "PERIGEE": "925"
+      },
+      {
+        "PERIOD": "105.57",
+        "INCLINATION": "100.01",
+        "APOGEE": "1033",
+        "PERIGEE": "1010"
+      },
+      {
+        "PERIOD": "106.78",
+        "INCLINATION": "99.52",
+        "APOGEE": "1106",
+        "PERIGEE": "1049"
+      },
+      {
+        "PERIOD": "107.28",
+        "INCLINATION": "99.99",
+        "APOGEE": "1141",
+        "PERIGEE": "1060"
+      },
+      {
+        "PERIOD": "107.47",
+        "INCLINATION": "99.83",
+        "APOGEE": "1169",
+        "PERIGEE": "1050"
+      },
+      {
+        "PERIOD": "105.86",
+        "INCLINATION": "99.63",
+        "APOGEE": "1041",
+        "PERIGEE": "1028"
+      },
+      {
+        "PERIOD": "105.97",
+        "INCLINATION": "99.97",
+        "APOGEE": "1048",
+        "PERIGEE": "1031"
+      },
+      {
+        "PERIOD": "106.52",
+        "INCLINATION": "100.19",
+        "APOGEE": "1080",
+        "PERIGEE": "1051"
+      },
+      {
+        "PERIOD": "102.99",
+        "INCLINATION": "99.98",
+        "APOGEE": "963",
+        "PERIGEE": "837"
+      },
+      {
+        "PERIOD": "112.21",
+        "INCLINATION": "99.93",
+        "APOGEE": "1595",
+        "PERIGEE": "1062"
+      },
+      {
+        "PERIOD": "106.08",
+        "INCLINATION": "99.74",
+        "APOGEE": "1074",
+        "PERIGEE": "1016"
+      },
+      {
+        "PERIOD": "105.79",
+        "INCLINATION": "100.18",
+        "APOGEE": "1046",
+        "PERIGEE": "1016"
+      },
+      {
+        "PERIOD": "105.90",
+        "INCLINATION": "100.19",
+        "APOGEE": "1049",
+        "PERIGEE": "1024"
+      },
+      {
+        "PERIOD": "109.97",
+        "INCLINATION": "99.80",
+        "APOGEE": "1394",
+        "PERIGEE": "1056"
+      },
+      {
+        "PERIOD": "106.98",
+        "INCLINATION": "99.48",
+        "APOGEE": "1248",
+        "PERIGEE": "925"
+      },
+      {
+        "PERIOD": "104.57",
+        "INCLINATION": "99.75",
+        "APOGEE": "986",
+        "PERIGEE": "962"
+      },
+      {
+        "PERIOD": "104.20",
+        "INCLINATION": "99.88",
+        "APOGEE": "1031",
+        "PERIGEE": "883"
+      },
+      {
+        "PERIOD": "109.96",
+        "INCLINATION": "99.69",
+        "APOGEE": "1400",
+        "PERIGEE": "1050"
+      },
+      {
+        "PERIOD": "111.32",
+        "INCLINATION": "63.07",
+        "APOGEE": "1991",
+        "PERIGEE": "584"
+      },
+      {
+        "PERIOD": "98.61",
+        "INCLINATION": "70.13",
+        "APOGEE": "710",
+        "PERIGEE": "674"
+      },
+      {
+        "PERIOD": "104.14",
+        "INCLINATION": "99.85",
+        "APOGEE": "1001",
+        "PERIGEE": "907"
+      },
+      {
+        "PERIOD": "104.99",
+        "INCLINATION": "100.01",
+        "APOGEE": "998",
+        "PERIGEE": "990"
+      },
+      {
+        "PERIOD": "103.95",
+        "INCLINATION": "99.79",
+        "APOGEE": "967",
+        "PERIGEE": "924"
+      },
+      {
+        "PERIOD": "113.96",
+        "INCLINATION": "99.67",
+        "APOGEE": "1763",
+        "PERIGEE": "1053"
+      },
+      {
+        "PERIOD": "113.28",
+        "INCLINATION": "99.72",
+        "APOGEE": "1712",
+        "PERIGEE": "1042"
+      },
+      {
+        "PERIOD": "100.90",
+        "INCLINATION": "99.75",
+        "APOGEE": "844",
+        "PERIGEE": "759"
+      },
+      {
+        "PERIOD": "106.84",
+        "INCLINATION": "99.40",
+        "APOGEE": "1150",
+        "PERIGEE": "1011"
+      },
+      {
+        "PERIOD": "102.32",
+        "INCLINATION": "100.08",
+        "APOGEE": "902",
+        "PERIGEE": "835"
+      },
+      {
+        "PERIOD": "108.48",
+        "INCLINATION": "99.46",
+        "APOGEE": "1279",
+        "PERIGEE": "1034"
+      },
+      {
+        "PERIOD": "95.48",
+        "INCLINATION": "99.69",
+        "APOGEE": "551",
+        "PERIGEE": "533"
+      },
+      {
+        "PERIOD": "106.07",
+        "INCLINATION": "99.40",
+        "APOGEE": "1107",
+        "PERIGEE": "982"
+      },
+      {
+        "PERIOD": "102.96",
+        "INCLINATION": "99.85",
+        "APOGEE": "998",
+        "PERIGEE": "799"
+      },
+      {
+        "PERIOD": "102.00",
+        "INCLINATION": "99.71",
+        "APOGEE": "886",
+        "PERIGEE": "820"
+      },
+      {
+        "PERIOD": "101.52",
+        "INCLINATION": "99.95",
+        "APOGEE": "884",
+        "PERIGEE": "778"
+      },
+      {
+        "PERIOD": "103.21",
+        "INCLINATION": "99.43",
+        "APOGEE": "994",
+        "PERIGEE": "826"
+      },
+      {
+        "PERIOD": "98.83",
+        "INCLINATION": "32.49",
+        "APOGEE": "738",
+        "PERIGEE": "668"
+      },
+      {
+        "PERIOD": "100.32",
+        "INCLINATION": "70.17",
+        "APOGEE": "804",
+        "PERIGEE": "743"
+      },
+      {
+        "PERIOD": "97.45",
+        "INCLINATION": "99.72",
+        "APOGEE": "648",
+        "PERIGEE": "626"
+      },
+      {
+        "PERIOD": "103.26",
+        "INCLINATION": "99.76",
+        "APOGEE": "956",
+        "PERIGEE": "870"
+      },
+      {
+        "PERIOD": "102.96",
+        "INCLINATION": "99.62",
+        "APOGEE": "998",
+        "PERIGEE": "799"
+      },
+      {
+        "PERIOD": "106.79",
+        "INCLINATION": "99.53",
+        "APOGEE": "1112",
+        "PERIGEE": "1044"
+      },
+      {
+        "PERIOD": "97.30",
+        "INCLINATION": "99.71",
+        "APOGEE": "641",
+        "PERIGEE": "618"
+      },
+      {
+        "PERIOD": "106.07",
+        "INCLINATION": "100.00",
+        "APOGEE": "1084",
+        "PERIGEE": "1005"
+      },
+      {
+        "PERIOD": "101.82",
+        "INCLINATION": "99.78",
+        "APOGEE": "883",
+        "PERIGEE": "806"
+      },
+      {
+        "PERIOD": "102.33",
+        "INCLINATION": "99.75",
+        "APOGEE": "983",
+        "PERIGEE": "755"
+      },
+      {
+        "PERIOD": "105.03",
+        "INCLINATION": "99.93",
+        "APOGEE": "1008",
+        "PERIGEE": "984"
+      },
+      {
+        "PERIOD": "106.22",
+        "INCLINATION": "99.71",
+        "APOGEE": "1066",
+        "PERIGEE": "1038"
+      },
+      {
+        "PERIOD": "95.71",
+        "INCLINATION": "99.68",
+        "APOGEE": "562",
+        "PERIGEE": "544"
+      },
+      {
+        "PERIOD": "97.86",
+        "INCLINATION": "99.68",
+        "APOGEE": "671",
+        "PERIGEE": "641"
+      },
+      {
+        "PERIOD": "98.19",
+        "INCLINATION": "99.86",
+        "APOGEE": "677",
+        "PERIGEE": "667"
+      },
+      {
+        "PERIOD": "106.52",
+        "INCLINATION": "90.38",
+        "APOGEE": "1086",
+        "PERIGEE": "1045"
+      },
+      {
+        "PERIOD": "103.17",
+        "INCLINATION": "99.95",
+        "APOGEE": "920",
+        "PERIGEE": "897"
+      },
+      {
+        "PERIOD": "155.10",
+        "INCLINATION": "120.77",
+        "APOGEE": "5743",
+        "PERIGEE": "625"
+      },
+      {
+        "PERIOD": "113.92",
+        "INCLINATION": "63.01",
+        "APOGEE": "2170",
+        "PERIGEE": "642"
+      },
+      {
+        "PERIOD": "102.70",
+        "INCLINATION": "99.41",
+        "APOGEE": "932",
+        "PERIGEE": "841"
+      },
+      {
+        "PERIOD": "106.09",
+        "INCLINATION": "99.83",
+        "APOGEE": "1053",
+        "PERIGEE": "1037"
+      },
+      {
+        "PERIOD": "100.81",
+        "INCLINATION": "99.71",
+        "APOGEE": "814",
+        "PERIGEE": "779"
+      },
+      {
+        "PERIOD": "101.94",
+        "INCLINATION": "100.11",
+        "APOGEE": "882",
+        "PERIGEE": "819"
+      },
+      {
+        "PERIOD": "110.02",
+        "INCLINATION": "99.82",
+        "APOGEE": "1426",
+        "PERIGEE": "1029"
+      },
+      {
+        "PERIOD": "106.32",
+        "INCLINATION": "99.94",
+        "APOGEE": "1083",
+        "PERIGEE": "1029"
+      },
+      {
+        "PERIOD": "104.15",
+        "INCLINATION": "100.01",
+        "APOGEE": "961",
+        "PERIGEE": "948"
+      },
+      {
+        "PERIOD": "103.52",
+        "INCLINATION": "100.10",
+        "APOGEE": "942",
+        "PERIGEE": "908"
+      },
+      {
+        "PERIOD": "104.78",
+        "INCLINATION": "99.84",
+        "APOGEE": "1016",
+        "PERIGEE": "952"
+      },
+      {
+        "PERIOD": "106.28",
+        "INCLINATION": "99.90",
+        "APOGEE": "1078",
+        "PERIGEE": "1030"
+      },
+      {
+        "PERIOD": "108.77",
+        "INCLINATION": "99.78",
+        "APOGEE": "1304",
+        "PERIGEE": "1036"
+      },
+      {
+        "PERIOD": "98.97",
+        "INCLINATION": "99.63",
+        "APOGEE": "746",
+        "PERIGEE": "673"
+      },
+      {
+        "PERIOD": "105.15",
+        "INCLINATION": "100.17",
+        "APOGEE": "1023",
+        "PERIGEE": "979"
+      },
+      {
+        "PERIOD": "105.00",
+        "INCLINATION": "99.93",
+        "APOGEE": "1032",
+        "PERIGEE": "957"
+      },
+      {
+        "PERIOD": "106.25",
+        "INCLINATION": "100.11",
+        "APOGEE": "1060",
+        "PERIGEE": "1045"
+      },
+      {
+        "PERIOD": "99.39",
+        "INCLINATION": "99.61",
+        "APOGEE": "776",
+        "PERIGEE": "682"
+      },
+      {
+        "PERIOD": "102.49",
+        "INCLINATION": "99.50",
+        "APOGEE": "902",
+        "PERIGEE": "851"
+      },
+      {
+        "PERIOD": "105.01",
+        "INCLINATION": "100.03",
+        "APOGEE": "996",
+        "PERIGEE": "994"
+      },
+      {
+        "PERIOD": "105.77",
+        "INCLINATION": "99.74",
+        "APOGEE": "1041",
+        "PERIGEE": "1019"
+      },
+      {
+        "PERIOD": "106.78",
+        "INCLINATION": "100.04",
+        "APOGEE": "1099",
+        "PERIGEE": "1056"
+      },
+      {
+        "PERIOD": "103.83",
+        "INCLINATION": "100.17",
+        "APOGEE": "942",
+        "PERIGEE": "937"
+      },
+      {
+        "PERIOD": "102.24",
+        "INCLINATION": "99.62",
+        "APOGEE": "880",
+        "PERIGEE": "849"
+      },
+      {
+        "PERIOD": "104.48",
+        "INCLINATION": "100.01",
+        "APOGEE": "976",
+        "PERIGEE": "964"
+      },
+      {
+        "PERIOD": "102.71",
+        "INCLINATION": "99.88",
+        "APOGEE": "899",
+        "PERIGEE": "874"
+      },
+      {
+        "PERIOD": "104.29",
+        "INCLINATION": "100.12",
+        "APOGEE": "966",
+        "PERIGEE": "956"
+      },
+      {
+        "PERIOD": "104.43",
+        "INCLINATION": "99.34",
+        "APOGEE": "980",
+        "PERIGEE": "956"
+      },
+      {
+        "PERIOD": "105.73",
+        "INCLINATION": "100.13",
+        "APOGEE": "1032",
+        "PERIGEE": "1025"
+      },
+      {
+        "PERIOD": "98.53",
+        "INCLINATION": "99.99",
+        "APOGEE": "693",
+        "PERIGEE": "684"
+      },
+      {
+        "PERIOD": "103.59",
+        "INCLINATION": "100.09",
+        "APOGEE": "949",
+        "PERIGEE": "908"
+      },
+      {
+        "PERIOD": "106.19",
+        "INCLINATION": "99.95",
+        "APOGEE": "1062",
+        "PERIGEE": "1039"
+      },
+      {
+        "PERIOD": "106.18",
+        "INCLINATION": "99.99",
+        "APOGEE": "1076",
+        "PERIGEE": "1023"
+      },
+      {
+        "PERIOD": "106.40",
+        "INCLINATION": "99.99",
+        "APOGEE": "1075",
+        "PERIGEE": "1045"
+      },
+      {
+        "PERIOD": "120.60",
+        "INCLINATION": "100.29",
+        "APOGEE": "2347",
+        "PERIGEE": "1069"
+      },
+      {
+        "PERIOD": "103.75",
+        "INCLINATION": "99.92",
+        "APOGEE": "940",
+        "PERIGEE": "932"
+      },
+      {
+        "PERIOD": "102.59",
+        "INCLINATION": "100.09",
+        "APOGEE": "921",
+        "PERIGEE": "842"
+      },
+      {
+        "PERIOD": "102.20",
+        "INCLINATION": "99.03",
+        "APOGEE": "891",
+        "PERIGEE": "835"
+      },
+      {
+        "PERIOD": "102.93",
+        "INCLINATION": "100.07",
+        "APOGEE": "974",
+        "PERIGEE": "820"
+      },
+      {
+        "PERIOD": "99.84",
+        "INCLINATION": "99.66",
+        "APOGEE": "792",
+        "PERIGEE": "710"
+      },
+      {
+        "PERIOD": "104.11",
+        "INCLINATION": "100.10",
+        "APOGEE": "1015",
+        "PERIGEE": "890"
+      },
+      {
+        "PERIOD": "99.39",
+        "INCLINATION": "99.90",
+        "APOGEE": "817",
+        "PERIGEE": "642"
+      },
+      {
+        "PERIOD": "106.89",
+        "INCLINATION": "62.91",
+        "APOGEE": "1591",
+        "PERIGEE": "574"
+      },
+      {
+        "PERIOD": "103.15",
+        "INCLINATION": "62.70",
+        "APOGEE": "1273",
+        "PERIGEE": "542"
+      },
+      {
+        "PERIOD": "103.04",
+        "INCLINATION": "62.79",
+        "APOGEE": "1290",
+        "PERIGEE": "515"
+      },
+      {
+        "PERIOD": "97.42",
+        "INCLINATION": "62.74",
+        "APOGEE": "794",
+        "PERIGEE": "477"
+      },
+      {
+        "PERIOD": "102.89",
+        "INCLINATION": "99.98",
+        "APOGEE": "962",
+        "PERIGEE": "829"
+      },
+      {
+        "PERIOD": "103.37",
+        "INCLINATION": "99.92",
+        "APOGEE": "1009",
+        "PERIGEE": "826"
+      },
+      {
+        "PERIOD": "102.77",
+        "INCLINATION": "100.03",
+        "APOGEE": "964",
+        "PERIGEE": "816"
+      },
+      {
+        "PERIOD": "106.34",
+        "INCLINATION": "100.00",
+        "APOGEE": "1059",
+        "PERIGEE": "1056"
+      },
+      {
+        "PERIOD": "103.18",
+        "INCLINATION": "99.98",
+        "APOGEE": "913",
+        "PERIGEE": "905"
+      },
+      {
+        "PERIOD": "104.17",
+        "INCLINATION": "99.36",
+        "APOGEE": "984",
+        "PERIGEE": "928"
+      },
+      {
+        "PERIOD": "103.75",
+        "INCLINATION": "62.78",
+        "APOGEE": "1351",
+        "PERIGEE": "520"
+      },
+      {
+        "PERIOD": "108.32",
+        "INCLINATION": "63.15",
+        "APOGEE": "1672",
+        "PERIGEE": "626"
+      },
+      {
+        "PERIOD": "106.30",
+        "INCLINATION": "99.97",
+        "APOGEE": "1058",
+        "PERIGEE": "1053"
+      },
+      {
+        "PERIOD": "100.10",
+        "INCLINATION": "100.03",
+        "APOGEE": "834",
+        "PERIGEE": "693"
+      },
+      {
+        "PERIOD": "104.41",
+        "INCLINATION": "100.06",
+        "APOGEE": "1018",
+        "PERIGEE": "916"
+      },
+      {
+        "PERIOD": "107.03",
+        "INCLINATION": "100.02",
+        "APOGEE": "1115",
+        "PERIGEE": "1063"
+      },
+      {
+        "PERIOD": "106.17",
+        "INCLINATION": "100.16",
+        "APOGEE": "1081",
+        "PERIGEE": "1017"
+      },
+      {
+        "PERIOD": "102.04",
+        "INCLINATION": "62.94",
+        "APOGEE": "1215",
+        "PERIGEE": "496"
+      },
+      {
+        "PERIOD": "107.63",
+        "INCLINATION": "63.14",
+        "APOGEE": "1550",
+        "PERIGEE": "684"
+      },
+      {
+        "PERIOD": "106.31",
+        "INCLINATION": "99.71",
+        "APOGEE": "1107",
+        "PERIGEE": "1004"
+      },
+      {
+        "PERIOD": "106.47",
+        "INCLINATION": "100.16",
+        "APOGEE": "1079",
+        "PERIGEE": "1048"
+      },
+      {
+        "PERIOD": "106.66",
+        "INCLINATION": "99.69",
+        "APOGEE": "1093",
+        "PERIGEE": "1050"
+      },
+      {
+        "PERIOD": "106.21",
+        "INCLINATION": "100.21",
+        "APOGEE": "1078",
+        "PERIGEE": "1024"
+      },
+      {
+        "PERIOD": "106.30",
+        "INCLINATION": "100.04",
+        "APOGEE": "1096",
+        "PERIGEE": "1015"
+      },
+      {
+        "PERIOD": "108.00",
+        "INCLINATION": "100.24",
+        "APOGEE": "1228",
+        "PERIGEE": "1040"
+      },
+      {
+        "PERIOD": "108.83",
+        "INCLINATION": "99.77",
+        "APOGEE": "1288",
+        "PERIGEE": "1057"
+      },
+      {
+        "PERIOD": "110.14",
+        "INCLINATION": "99.91",
+        "APOGEE": "1418",
+        "PERIGEE": "1049"
+      },
+      {
+        "PERIOD": "105.42",
+        "INCLINATION": "100.12",
+        "APOGEE": "1028",
+        "PERIGEE": "1000"
+      },
+      {
+        "PERIOD": "106.09",
+        "INCLINATION": "100.15",
+        "APOGEE": "1052",
+        "PERIGEE": "1039"
+      },
+      {
+        "PERIOD": "106.31",
+        "INCLINATION": "99.91",
+        "APOGEE": "1060",
+        "PERIGEE": "1051"
+      },
+      {
+        "PERIOD": "106.57",
+        "INCLINATION": "99.95",
+        "APOGEE": "1069",
+        "PERIGEE": "1067"
+      },
+      {
+        "PERIOD": "106.35",
+        "INCLINATION": "99.73",
+        "APOGEE": "1085",
+        "PERIGEE": "1030"
+      },
+      {
+        "PERIOD": "111.94",
+        "INCLINATION": "62.96",
+        "APOGEE": "2077",
+        "PERIGEE": "556"
+      },
+      {
+        "PERIOD": "106.66",
+        "INCLINATION": "62.93",
+        "APOGEE": "1628",
+        "PERIGEE": "516"
+      },
+      {
+        "PERIOD": "106.94",
+        "INCLINATION": "62.55",
+        "APOGEE": "1647",
+        "PERIGEE": "523"
+      },
+      {
+        "PERIOD": "104.02",
+        "INCLINATION": "100.10",
+        "APOGEE": "958",
+        "PERIGEE": "939"
+      },
+      {
+        "PERIOD": "103.56",
+        "INCLINATION": "99.98",
+        "APOGEE": "946",
+        "PERIGEE": "907"
+      },
+      {
+        "PERIOD": "105.19",
+        "INCLINATION": "100.17",
+        "APOGEE": "1015",
+        "PERIGEE": "992"
+      },
+      {
+        "PERIOD": "105.36",
+        "INCLINATION": "99.54",
+        "APOGEE": "1028",
+        "PERIGEE": "994"
+      },
+      {
+        "PERIOD": "105.28",
+        "INCLINATION": "99.96",
+        "APOGEE": "1049",
+        "PERIGEE": "966"
+      },
+      {
+        "PERIOD": "102.61",
+        "INCLINATION": "100.01",
+        "APOGEE": "904",
+        "PERIGEE": "861"
+      },
+      {
+        "PERIOD": "100.98",
+        "INCLINATION": "100.02",
+        "APOGEE": "825",
+        "PERIGEE": "785"
+      },
+      {
+        "PERIOD": "104.00",
+        "INCLINATION": "99.68",
+        "APOGEE": "971",
+        "PERIGEE": "924"
+      },
+      {
+        "PERIOD": "103.20",
+        "INCLINATION": "100.13",
+        "APOGEE": "948",
+        "PERIGEE": "871"
+      },
+      {
+        "PERIOD": "102.48",
+        "INCLINATION": "99.83",
+        "APOGEE": "964",
+        "PERIGEE": "788"
+      },
+      {
+        "PERIOD": "97.74",
+        "INCLINATION": "99.89",
+        "APOGEE": "711",
+        "PERIGEE": "591"
+      },
+      {
+        "PERIOD": "111.98",
+        "INCLINATION": "99.88",
+        "APOGEE": "1572",
+        "PERIGEE": "1063"
+      },
+      {
+        "PERIOD": "106.00",
+        "INCLINATION": "99.87",
+        "APOGEE": "1049",
+        "PERIGEE": "1034"
+      },
+      {
+        "PERIOD": "106.34",
+        "INCLINATION": "99.77",
+        "APOGEE": "1066",
+        "PERIGEE": "1048"
+      },
+      {
+        "PERIOD": "107.72",
+        "INCLINATION": "99.71",
+        "APOGEE": "1213",
+        "PERIGEE": "1029"
+      },
+      {
+        "PERIOD": "108.08",
+        "INCLINATION": "99.90",
+        "APOGEE": "1224",
+        "PERIGEE": "1052"
+      },
+      {
+        "PERIOD": "98.93",
+        "INCLINATION": "100.00",
+        "APOGEE": "721",
+        "PERIGEE": "694"
+      },
+      {
+        "PERIOD": "105.61",
+        "INCLINATION": "99.72",
+        "APOGEE": "1040",
+        "PERIGEE": "1006"
+      },
+      {
+        "PERIOD": "105.28",
+        "INCLINATION": "100.08",
+        "APOGEE": "1034",
+        "PERIGEE": "982"
+      },
+      {
+        "PERIOD": "110.47",
+        "INCLINATION": "62.81",
+        "APOGEE": "1962",
+        "PERIGEE": "534"
+      },
+      {
+        "PERIOD": "103.79",
+        "INCLINATION": "62.81",
+        "APOGEE": "1329",
+        "PERIGEE": "547"
+      },
+      {
+        "PERIOD": "110.70",
+        "INCLINATION": "62.85",
+        "APOGEE": "1992",
+        "PERIGEE": "527"
+      },
+      {
+        "PERIOD": "102.13",
+        "INCLINATION": "62.77",
+        "APOGEE": "1229",
+        "PERIGEE": "490"
+      },
+      {
+        "PERIOD": "107.03",
+        "INCLINATION": "62.93",
+        "APOGEE": "1616",
+        "PERIGEE": "562"
+      },
+      {
+        "PERIOD": "101.82",
+        "INCLINATION": "62.92",
+        "APOGEE": "1131",
+        "PERIGEE": "559"
+      },
+      {
+        "PERIOD": "113.39",
+        "INCLINATION": "62.80",
+        "APOGEE": "2148",
+        "PERIGEE": "617"
+      },
+      {
+        "PERIOD": "105.04",
+        "INCLINATION": "100.18",
+        "APOGEE": "1042",
+        "PERIGEE": "951"
+      },
+      {
+        "PERIOD": "103.79",
+        "INCLINATION": "100.10",
+        "APOGEE": "997",
+        "PERIGEE": "878"
+      },
+      {
+        "PERIOD": "101.68",
+        "INCLINATION": "98.92",
+        "APOGEE": "916",
+        "PERIGEE": "760"
+      },
+      {
+        "PERIOD": "102.99",
+        "INCLINATION": "99.77",
+        "APOGEE": "967",
+        "PERIGEE": "834"
+      },
+      {
+        "PERIOD": "102.79",
+        "INCLINATION": "99.87",
+        "APOGEE": "991",
+        "PERIGEE": "791"
+      },
+      {
+        "PERIOD": "117.05",
+        "INCLINATION": "100.20",
+        "APOGEE": "2036",
+        "PERIGEE": "1060"
+      },
+      {
+        "PERIOD": "104.37",
+        "INCLINATION": "99.67",
+        "APOGEE": "979",
+        "PERIGEE": "951"
+      },
+      {
+        "PERIOD": "100.17",
+        "INCLINATION": "90.14",
+        "APOGEE": "801",
+        "PERIGEE": "732"
+      },
+      {
+        "PERIOD": "100.82",
+        "INCLINATION": "69.99",
+        "APOGEE": "825",
+        "PERIGEE": "770"
+      },
+      {
+        "PERIOD": "96.81",
+        "INCLINATION": "70.05",
+        "APOGEE": "625",
+        "PERIGEE": "586"
+      },
+      {
+        "PERIOD": "115.09",
+        "INCLINATION": "101.84",
+        "APOGEE": "1482",
+        "PERIGEE": "1437"
+      },
+      {
+        "PERIOD": "104.01",
+        "INCLINATION": "70.07",
+        "APOGEE": "1013",
+        "PERIGEE": "883"
+      },
+      {
+        "PERIOD": "102.15",
+        "INCLINATION": "70.13",
+        "APOGEE": "883",
+        "PERIGEE": "838"
+      },
+      {
+        "PERIOD": "99.68",
+        "INCLINATION": "70.04",
+        "APOGEE": "772",
+        "PERIGEE": "715"
+      },
+      {
+        "PERIOD": "100.27",
+        "INCLINATION": "69.98",
+        "APOGEE": "812",
+        "PERIGEE": "731"
+      },
+      {
+        "PERIOD": "99.00",
+        "INCLINATION": "70.10",
+        "APOGEE": "749",
+        "PERIGEE": "672"
+      },
+      {
+        "PERIOD": "98.72",
+        "INCLINATION": "70.02",
+        "APOGEE": "714",
+        "PERIGEE": "681"
+      },
+      {
+        "PERIOD": "100.93",
+        "INCLINATION": "69.98",
+        "APOGEE": "841",
+        "PERIGEE": "765"
+      },
+      {
+        "PERIOD": "105.95",
+        "INCLINATION": "62.75",
+        "APOGEE": "1598",
+        "PERIGEE": "479"
+      },
+      {
+        "PERIOD": "100.87",
+        "INCLINATION": "70.06",
+        "APOGEE": "850",
+        "PERIGEE": "749"
+      },
+      {
+        "PERIOD": "98.76",
+        "INCLINATION": "70.34",
+        "APOGEE": "749",
+        "PERIGEE": "650"
+      },
+      {
+        "PERIOD": "102.36",
+        "INCLINATION": "70.02",
+        "APOGEE": "899",
+        "PERIGEE": "842"
+      },
+      {
+        "PERIOD": "98.06",
+        "INCLINATION": "70.06",
+        "APOGEE": "686",
+        "PERIGEE": "646"
+      },
+      {
+        "PERIOD": "101.46",
+        "INCLINATION": "70.06",
+        "APOGEE": "873",
+        "PERIGEE": "783"
+      },
+      {
+        "PERIOD": "99.94",
+        "INCLINATION": "70.28",
+        "APOGEE": "781",
+        "PERIGEE": "731"
+      },
+      {
+        "PERIOD": "97.32",
+        "INCLINATION": "69.88",
+        "APOGEE": "659",
+        "PERIGEE": "602"
+      },
+      {
+        "PERIOD": "99.55",
+        "INCLINATION": "70.10",
+        "APOGEE": "766",
+        "PERIGEE": "709"
+      },
+      {
+        "PERIOD": "100.35",
+        "INCLINATION": "70.04",
+        "APOGEE": "801",
+        "PERIGEE": "750"
+      },
+      {
+        "PERIOD": "101.25",
+        "INCLINATION": "70.11",
+        "APOGEE": "852",
+        "PERIGEE": "783"
+      },
+      {
+        "PERIOD": "100.00",
+        "INCLINATION": "70.05",
+        "APOGEE": "804",
+        "PERIGEE": "714"
+      },
+      {
+        "PERIOD": "102.13",
+        "INCLINATION": "70.07",
+        "APOGEE": "885",
+        "PERIGEE": "834"
+      },
+      {
+        "PERIOD": "102.53",
+        "INCLINATION": "70.03",
+        "APOGEE": "907",
+        "PERIGEE": "850"
+      },
+      {
+        "PERIOD": "101.31",
+        "INCLINATION": "70.09",
+        "APOGEE": "831",
+        "PERIGEE": "810"
+      },
+      {
+        "PERIOD": "99.13",
+        "INCLINATION": "69.97",
+        "APOGEE": "739",
+        "PERIGEE": "694"
+      },
+      {
+        "PERIOD": "97.31",
+        "INCLINATION": "69.93",
+        "APOGEE": "652",
+        "PERIGEE": "607"
+      },
+      {
+        "PERIOD": "100.98",
+        "INCLINATION": "70.06",
+        "APOGEE": "854",
+        "PERIGEE": "756"
+      },
+      {
+        "PERIOD": "97.37",
+        "INCLINATION": "70.09",
+        "APOGEE": "651",
+        "PERIGEE": "615"
+      },
+      {
+        "PERIOD": "100.37",
+        "INCLINATION": "69.94",
+        "APOGEE": "859",
+        "PERIGEE": "694"
+      },
+      {
+        "PERIOD": "97.53",
+        "INCLINATION": "70.03",
+        "APOGEE": "662",
+        "PERIGEE": "620"
+      },
+      {
+        "PERIOD": "98.34",
+        "INCLINATION": "69.96",
+        "APOGEE": "698",
+        "PERIGEE": "660"
+      },
+      {
+        "PERIOD": "100.59",
+        "INCLINATION": "69.98",
+        "APOGEE": "843",
+        "PERIGEE": "730"
+      },
+      {
+        "PERIOD": "100.27",
+        "INCLINATION": "69.85",
+        "APOGEE": "832",
+        "PERIGEE": "711"
+      },
+      {
+        "PERIOD": "103.74",
+        "INCLINATION": "70.07",
+        "APOGEE": "1021",
+        "PERIGEE": "849"
+      },
+      {
+        "PERIOD": "100.72",
+        "INCLINATION": "69.99",
+        "APOGEE": "828",
+        "PERIGEE": "757"
+      },
+      {
+        "PERIOD": "98.76",
+        "INCLINATION": "70.08",
+        "APOGEE": "725",
+        "PERIGEE": "673"
+      },
+      {
+        "PERIOD": "100.64",
+        "INCLINATION": "70.08",
+        "APOGEE": "817",
+        "PERIGEE": "761"
+      },
+      {
+        "PERIOD": "99.19",
+        "INCLINATION": "70.19",
+        "APOGEE": "748",
+        "PERIGEE": "692"
+      },
+      {
+        "PERIOD": "101.24",
+        "INCLINATION": "70.08",
+        "APOGEE": "847",
+        "PERIGEE": "788"
+      },
+      {
+        "PERIOD": "102.94",
+        "INCLINATION": "70.02",
+        "APOGEE": "940",
+        "PERIGEE": "855"
+      },
+      {
+        "PERIOD": "95.63",
+        "INCLINATION": "70.04",
+        "APOGEE": "563",
+        "PERIGEE": "535"
+      },
+      {
+        "PERIOD": "102.03",
+        "INCLINATION": "70.00",
+        "APOGEE": "886",
+        "PERIGEE": "824"
+      },
+      {
+        "PERIOD": "97.90",
+        "INCLINATION": "70.02",
+        "APOGEE": "685",
+        "PERIGEE": "631"
+      },
+      {
+        "PERIOD": "100.62",
+        "INCLINATION": "70.05",
+        "APOGEE": "833",
+        "PERIGEE": "742"
+      },
+      {
+        "PERIOD": "102.44",
+        "INCLINATION": "70.07",
+        "APOGEE": "911",
+        "PERIGEE": "838"
+      },
+      {
+        "PERIOD": "101.65",
+        "INCLINATION": "70.31",
+        "APOGEE": "864",
+        "PERIGEE": "810"
+      },
+      {
+        "PERIOD": "102.05",
+        "INCLINATION": "70.06",
+        "APOGEE": "898",
+        "PERIGEE": "814"
+      },
+      {
+        "PERIOD": "99.36",
+        "INCLINATION": "70.08",
+        "APOGEE": "758",
+        "PERIGEE": "698"
+      },
+      {
+        "PERIOD": "101.62",
+        "INCLINATION": "70.11",
+        "APOGEE": "850",
+        "PERIGEE": "821"
+      },
+      {
+        "PERIOD": "98.44",
+        "INCLINATION": "69.88",
+        "APOGEE": "720",
+        "PERIGEE": "648"
+      },
+      {
+        "PERIOD": "101.29",
+        "INCLINATION": "69.98",
+        "APOGEE": "855",
+        "PERIGEE": "784"
+      },
+      {
+        "PERIOD": "97.90",
+        "INCLINATION": "69.92",
+        "APOGEE": "687",
+        "PERIGEE": "630"
+      },
+      {
+        "PERIOD": "99.58",
+        "INCLINATION": "74.07",
+        "APOGEE": "754",
+        "PERIGEE": "724"
+      },
+      {
+        "PERIOD": "91.88",
+        "INCLINATION": "30.26",
+        "APOGEE": "521",
+        "PERIGEE": "213"
+      },
+      {
+        "PERIOD": "99.12",
+        "INCLINATION": "66.75",
+        "APOGEE": "799",
+        "PERIGEE": "634"
+      },
+      {
+        "PERIOD": "104.62",
+        "INCLINATION": "38.84",
+        "APOGEE": "1395",
+        "PERIGEE": "558"
+      },
+      {
+        "PERIOD": "117.27",
+        "INCLINATION": "67.63",
+        "APOGEE": "2208",
+        "PERIGEE": "908"
+      },
+      {
+        "PERIOD": "104.28",
+        "INCLINATION": "62.84",
+        "APOGEE": "1429",
+        "PERIGEE": "492"
+      },
+      {
+        "PERIOD": "104.69",
+        "INCLINATION": "66.75",
+        "APOGEE": "1053",
+        "PERIGEE": "906"
+      },
+      {
+        "PERIOD": "98.26",
+        "INCLINATION": "32.57",
+        "APOGEE": "701",
+        "PERIGEE": "649"
+      },
+      {
+        "PERIOD": "114.88",
+        "INCLINATION": "102.06",
+        "APOGEE": "1484",
+        "PERIGEE": "1416"
+      },
+      {
+        "PERIOD": "114.91",
+        "INCLINATION": "102.19",
+        "APOGEE": "1479",
+        "PERIGEE": "1423"
+      },
+      {
+        "PERIOD": "117.43",
+        "INCLINATION": "56.30",
+        "APOGEE": "1769",
+        "PERIGEE": "1361"
+      },
+      {
+        "PERIOD": "115.07",
+        "INCLINATION": "63.00",
+        "APOGEE": "2378",
+        "PERIGEE": "540"
+      },
+      {
+        "PERIOD": "108.77",
+        "INCLINATION": "65.80",
+        "APOGEE": "1397",
+        "PERIGEE": "942"
+      },
+      {
+        "PERIOD": "116.59",
+        "INCLINATION": "56.06",
+        "APOGEE": "1682",
+        "PERIGEE": "1373"
+      },
+      {
+        "PERIOD": "103.20",
+        "INCLINATION": "38.92",
+        "APOGEE": "1264",
+        "PERIGEE": "557"
+      },
+      {
+        "PERIOD": "108.03",
+        "INCLINATION": "62.23",
+        "APOGEE": "1630",
+        "PERIGEE": "641"
+      },
+      {
+        "PERIOD": "113.42",
+        "INCLINATION": "62.25",
+        "APOGEE": "2003",
+        "PERIGEE": "764"
+      },
+      {
+        "PERIOD": "108.46",
+        "INCLINATION": "62.92",
+        "APOGEE": "1800",
+        "PERIGEE": "510"
+      },
+      {
+        "PERIOD": "108.07",
+        "INCLINATION": "63.38",
+        "APOGEE": "1368",
+        "PERIGEE": "907"
+      },
+      {
+        "PERIOD": "111.51",
+        "INCLINATION": "61.27",
+        "APOGEE": "1936",
+        "PERIGEE": "656"
+      },
+      {
+        "PERIOD": "100.65",
+        "INCLINATION": "62.22",
+        "APOGEE": "1054",
+        "PERIGEE": "525"
+      },
+      {
+        "PERIOD": "97.40",
+        "INCLINATION": "62.17",
+        "APOGEE": "743",
+        "PERIGEE": "525"
+      },
+      {
+        "PERIOD": "112.14",
+        "INCLINATION": "62.27",
+        "APOGEE": "1919",
+        "PERIGEE": "731"
+      },
+      {
+        "PERIOD": "110.12",
+        "INCLINATION": "62.26",
+        "APOGEE": "1756",
+        "PERIGEE": "708"
+      },
+      {
+        "PERIOD": "224.12",
+        "INCLINATION": "120.88",
+        "APOGEE": "5865",
+        "PERIGEE": "5823"
+      },
+      {
+        "PERIOD": "111.27",
+        "INCLINATION": "62.27",
+        "APOGEE": "1840",
+        "PERIGEE": "730"
+      },
+      {
+        "PERIOD": "105.11",
+        "INCLINATION": "66.74",
+        "APOGEE": "1096",
+        "PERIGEE": "903"
+      },
+      {
+        "PERIOD": "113.68",
+        "INCLINATION": "80.18",
+        "APOGEE": "1419",
+        "PERIGEE": "1372"
+      },
+      {
+        "PERIOD": "114.42",
+        "INCLINATION": "80.61",
+        "APOGEE": "1456",
+        "PERIGEE": "1403"
+      },
+      {
+        "PERIOD": "112.99",
+        "INCLINATION": "62.27",
+        "APOGEE": "1964",
+        "PERIGEE": "763"
+      },
+      {
+        "PERIOD": "116.35",
+        "INCLINATION": "102.05",
+        "APOGEE": "1573",
+        "PERIGEE": "1460"
+      },
+      {
+        "PERIOD": "112.83",
+        "INCLINATION": "101.91",
+        "APOGEE": "1463",
+        "PERIGEE": "1250"
+      },
+      {
+        "PERIOD": "106.73",
+        "INCLINATION": "89.81",
+        "APOGEE": "1123",
+        "PERIGEE": "1027"
+      },
+      {
+        "PERIOD": "109.53",
+        "INCLINATION": "62.27",
+        "APOGEE": "1704",
+        "PERIGEE": "706"
+      },
+      {
+        "PERIOD": "110.08",
+        "INCLINATION": "62.23",
+        "APOGEE": "1729",
+        "PERIGEE": "731"
+      },
+      {
+        "PERIOD": "108.05",
+        "INCLINATION": "62.99",
+        "APOGEE": "1722",
+        "PERIGEE": "550"
+      },
+      {
+        "PERIOD": "121.19",
+        "INCLINATION": "61.88",
+        "APOGEE": "2194",
+        "PERIGEE": "1275"
+      },
+      {
+        "PERIOD": "113.01",
+        "INCLINATION": "62.26",
+        "APOGEE": "1980",
+        "PERIGEE": "750"
+      },
+      {
+        "PERIOD": "108.78",
+        "INCLINATION": "62.25",
+        "APOGEE": "1659",
+        "PERIGEE": "681"
+      },
+      {
+        "PERIOD": "112.76",
+        "INCLINATION": "62.26",
+        "APOGEE": "1969",
+        "PERIGEE": "738"
+      },
+      {
+        "PERIOD": "102.50",
+        "INCLINATION": "61.99",
+        "APOGEE": "1242",
+        "PERIGEE": "511"
+      },
+      {
+        "PERIOD": "112.82",
+        "INCLINATION": "62.25",
+        "APOGEE": "1973",
+        "PERIGEE": "740"
+      },
+      {
+        "PERIOD": "98.79",
+        "INCLINATION": "62.44",
+        "APOGEE": "889",
+        "PERIGEE": "512"
+      },
+      {
+        "PERIOD": "106.86",
+        "INCLINATION": "67.63",
+        "APOGEE": "1246",
+        "PERIGEE": "917"
+      },
+      {
+        "PERIOD": "102.40",
+        "INCLINATION": "78.60",
+        "APOGEE": "1161",
+        "PERIGEE": "583"
+      },
+      {
+        "PERIOD": "104.53",
+        "INCLINATION": "56.12",
+        "APOGEE": "1341",
+        "PERIGEE": "603"
+      },
+      {
+        "PERIOD": "112.64",
+        "INCLINATION": "67.75",
+        "APOGEE": "1752",
+        "PERIGEE": "943"
+      },
+      {
+        "PERIOD": "115.16",
+        "INCLINATION": "56.02",
+        "APOGEE": "1588",
+        "PERIGEE": "1337"
+      },
+      {
+        "PERIOD": "103.85",
+        "INCLINATION": "66.98",
+        "APOGEE": "1057",
+        "PERIGEE": "824"
+      },
+      {
+        "PERIOD": "118.00",
+        "INCLINATION": "56.66",
+        "APOGEE": "1798",
+        "PERIGEE": "1384"
+      },
+      {
+        "PERIOD": "101.65",
+        "INCLINATION": "29.89",
+        "APOGEE": "1079",
+        "PERIGEE": "595"
+      },
+      {
+        "PERIOD": "102.16",
+        "INCLINATION": "66.33",
+        "APOGEE": "923",
+        "PERIGEE": "799"
+      },
+      {
+        "PERIOD": "110.60",
+        "INCLINATION": "62.22",
+        "APOGEE": "1764",
+        "PERIGEE": "744"
+      },
+      {
+        "PERIOD": "111.08",
+        "INCLINATION": "62.24",
+        "APOGEE": "1824",
+        "PERIGEE": "729"
+      },
+      {
+        "PERIOD": "111.88",
+        "INCLINATION": "62.35",
+        "APOGEE": "1911",
+        "PERIGEE": "715"
+      },
+      {
+        "PERIOD": "110.30",
+        "INCLINATION": "62.26",
+        "APOGEE": "1773",
+        "PERIGEE": "708"
+      },
+      {
+        "PERIOD": "105.17",
+        "INCLINATION": "62.75",
+        "APOGEE": "1505",
+        "PERIGEE": "500"
+      },
+      {
+        "PERIOD": "114.68",
+        "INCLINATION": "80.54",
+        "APOGEE": "1506",
+        "PERIGEE": "1375"
+      },
+      {
+        "PERIOD": "113.98",
+        "INCLINATION": "80.18",
+        "APOGEE": "1444",
+        "PERIGEE": "1374"
+      },
+      {
+        "PERIOD": "96.86",
+        "INCLINATION": "144.56",
+        "APOGEE": "619",
+        "PERIGEE": "597"
+      },
+      {
+        "PERIOD": "106.33",
+        "INCLINATION": "62.28",
+        "APOGEE": "1620",
+        "PERIGEE": "493"
+      },
+      {
+        "PERIOD": "110.84",
+        "INCLINATION": "62.25",
+        "APOGEE": "1857",
+        "PERIGEE": "674"
+      },
+      {
+        "PERIOD": "105.80",
+        "INCLINATION": "89.96",
+        "APOGEE": "1078",
+        "PERIGEE": "986"
+      },
+      {
+        "PERIOD": "102.67",
+        "INCLINATION": "90.14",
+        "APOGEE": "940",
+        "PERIGEE": "830"
+      },
+      {
+        "PERIOD": "101.73",
+        "INCLINATION": "62.31",
+        "APOGEE": "1170",
+        "PERIGEE": "511"
+      },
+      {
+        "PERIOD": "112.28",
+        "INCLINATION": "62.09",
+        "APOGEE": "1865",
+        "PERIGEE": "798"
+      },
+      {
+        "PERIOD": "104.60",
+        "INCLINATION": "62.31",
+        "APOGEE": "1421",
+        "PERIGEE": "531"
+      },
+      {
+        "PERIOD": "103.12",
+        "INCLINATION": "62.30",
+        "APOGEE": "1309",
+        "PERIGEE": "502"
+      },
+      {
+        "PERIOD": "102.74",
+        "INCLINATION": "62.27",
+        "APOGEE": "1286",
+        "PERIGEE": "491"
+      },
+      {
+        "PERIOD": "103.56",
+        "INCLINATION": "62.29",
+        "APOGEE": "1352",
+        "PERIGEE": "502"
+      },
+      {
+        "PERIOD": "97.74",
+        "INCLINATION": "62.19",
+        "APOGEE": "813",
+        "PERIGEE": "487"
+      },
+      {
+        "PERIOD": "109.12",
+        "INCLINATION": "62.31",
+        "APOGEE": "1838",
+        "PERIGEE": "535"
+      },
+      {
+        "PERIOD": "110.25",
+        "INCLINATION": "62.31",
+        "APOGEE": "1946",
+        "PERIGEE": "530"
+      },
+      {
+        "PERIOD": "104.82",
+        "INCLINATION": "62.27",
+        "APOGEE": "1463",
+        "PERIGEE": "509"
+      },
+      {
+        "PERIOD": "105.44",
+        "INCLINATION": "62.29",
+        "APOGEE": "1500",
+        "PERIGEE": "530"
+      },
+      {
+        "PERIOD": "101.38",
+        "INCLINATION": "62.31",
+        "APOGEE": "1166",
+        "PERIGEE": "482"
+      },
+      {
+        "PERIOD": "99.05",
+        "INCLINATION": "62.37",
+        "APOGEE": "956",
+        "PERIGEE": "471"
+      },
+      {
+        "PERIOD": "111.69",
+        "INCLINATION": "62.37",
+        "APOGEE": "2033",
+        "PERIGEE": "575"
+      },
+      {
+        "PERIOD": "98.75",
+        "INCLINATION": "31.89",
+        "APOGEE": "719",
+        "PERIGEE": "679"
+      },
+      {
+        "PERIOD": "97.95",
+        "INCLINATION": "32.23",
+        "APOGEE": "680",
+        "PERIGEE": "641"
+      },
+      {
+        "PERIOD": "95.86",
+        "INCLINATION": "32.02",
+        "APOGEE": "575",
+        "PERIGEE": "546"
+      },
+      {
+        "PERIOD": "96.95",
+        "INCLINATION": "32.27",
+        "APOGEE": "629",
+        "PERIGEE": "596"
+      },
+      {
+        "PERIOD": "116.16",
+        "INCLINATION": "101.83",
+        "APOGEE": "1559",
+        "PERIGEE": "1456"
+      },
+      {
+        "PERIOD": "113.65",
+        "INCLINATION": "101.69",
+        "APOGEE": "1486",
+        "PERIGEE": "1302"
+      },
+      {
+        "PERIOD": "105.37",
+        "INCLINATION": "80.67",
+        "APOGEE": "1392",
+        "PERIGEE": "631"
+      },
+      {
+        "PERIOD": "97.10",
+        "INCLINATION": "32.38",
+        "APOGEE": "626",
+        "PERIGEE": "614"
+      },
+      {
+        "PERIOD": "100.91",
+        "INCLINATION": "30.99",
+        "APOGEE": "950",
+        "PERIGEE": "654"
+      },
+      {
+        "PERIOD": "108.41",
+        "INCLINATION": "90.00",
+        "APOGEE": "1295",
+        "PERIGEE": "1012"
+      },
+      {
+        "PERIOD": "103.82",
+        "INCLINATION": "90.19",
+        "APOGEE": "979",
+        "PERIGEE": "899"
+      },
+      {
+        "PERIOD": "107.10",
+        "INCLINATION": "90.08",
+        "APOGEE": "1125",
+        "PERIGEE": "1060"
+      },
+      {
+        "PERIOD": "102.94",
+        "INCLINATION": "66.75",
+        "APOGEE": "929",
+        "PERIGEE": "867"
+      },
+      {
+        "PERIOD": "167.86",
+        "INCLINATION": "88.41",
+        "APOGEE": "3829",
+        "PERIGEE": "3574"
+      },
+      {
+        "PERIOD": "112.09",
+        "INCLINATION": "105.33",
+        "APOGEE": "1570",
+        "PERIGEE": "1075"
+      },
+      {
+        "PERIOD": "112.30",
+        "INCLINATION": "106.07",
+        "APOGEE": "1581",
+        "PERIGEE": "1083"
+      },
+      {
+        "PERIOD": "108.70",
+        "INCLINATION": "67.56",
+        "APOGEE": "1406",
+        "PERIGEE": "927"
+      },
+      {
+        "PERIOD": "106.94",
+        "INCLINATION": "66.99",
+        "APOGEE": "1339",
+        "PERIGEE": "831"
+      },
+      {
+        "PERIOD": "115.38",
+        "INCLINATION": "102.43",
+        "APOGEE": "1495",
+        "PERIGEE": "1451"
+      },
+      {
+        "PERIOD": "108.68",
+        "INCLINATION": "89.07",
+        "APOGEE": "1306",
+        "PERIGEE": "1026"
+      },
+      {
+        "PERIOD": "167.84",
+        "INCLINATION": "88.41",
+        "APOGEE": "3736",
+        "PERIGEE": "3666"
+      },
+      {
+        "PERIOD": "114.09",
+        "INCLINATION": "101.40",
+        "APOGEE": "1483",
+        "PERIGEE": "1345"
+      },
+      {
+        "PERIOD": "115.74",
+        "INCLINATION": "55.44",
+        "APOGEE": "1722",
+        "PERIGEE": "1256"
+      },
+      {
+        "PERIOD": "103.87",
+        "INCLINATION": "56.19",
+        "APOGEE": "1322",
+        "PERIGEE": "560"
+      },
+      {
+        "PERIOD": "103.27",
+        "INCLINATION": "89.44",
+        "APOGEE": "984",
+        "PERIGEE": "842"
+      },
+      {
+        "PERIOD": "103.06",
+        "INCLINATION": "89.72",
+        "APOGEE": "984",
+        "PERIGEE": "823"
+      },
+      {
+        "PERIOD": "102.47",
+        "INCLINATION": "90.52",
+        "APOGEE": "912",
+        "PERIGEE": "839"
+      },
+      {
+        "PERIOD": "114.58",
+        "INCLINATION": "101.37",
+        "APOGEE": "1483",
+        "PERIGEE": "1390"
+      },
+      {
+        "PERIOD": "112.33",
+        "INCLINATION": "102.20",
+        "APOGEE": "1409",
+        "PERIGEE": "1258"
+      },
+      {
+        "PERIOD": "115.19",
+        "INCLINATION": "55.59",
+        "APOGEE": "1741",
+        "PERIGEE": "1188"
+      },
+      {
+        "PERIOD": "109.31",
+        "INCLINATION": "89.47",
+        "APOGEE": "1323",
+        "PERIGEE": "1066"
+      },
+      {
+        "PERIOD": "121.28",
+        "INCLINATION": "59.20",
+        "APOGEE": "2321",
+        "PERIGEE": "1155"
+      },
+      {
+        "PERIOD": "108.33",
+        "INCLINATION": "29.87",
+        "APOGEE": "1636",
+        "PERIGEE": "663"
+      },
+      {
+        "PERIOD": "119.09",
+        "INCLINATION": "81.42",
+        "APOGEE": "2875",
+        "PERIGEE": "405"
+      },
+      {
+        "PERIOD": "98.17",
+        "INCLINATION": "32.06",
+        "APOGEE": "698",
+        "PERIGEE": "644"
+      },
+      {
+        "PERIOD": "98.45",
+        "INCLINATION": "32.29",
+        "APOGEE": "759",
+        "PERIGEE": "610"
+      },
+      {
+        "PERIOD": "107.94",
+        "INCLINATION": "89.79",
+        "APOGEE": "1223",
+        "PERIGEE": "1040"
+      },
+      {
+        "PERIOD": "102.71",
+        "INCLINATION": "90.23",
+        "APOGEE": "981",
+        "PERIGEE": "794"
+      },
+      {
+        "PERIOD": "113.24",
+        "INCLINATION": "101.38",
+        "APOGEE": "1472",
+        "PERIGEE": "1279"
+      },
+      {
+        "PERIOD": "112.57",
+        "INCLINATION": "101.80",
+        "APOGEE": "1460",
+        "PERIGEE": "1229"
+      },
+      {
+        "PERIOD": "114.21",
+        "INCLINATION": "102.18",
+        "APOGEE": "1447",
+        "PERIGEE": "1392"
+      },
+      {
+        "PERIOD": "107.80",
+        "INCLINATION": "88.57",
+        "APOGEE": "1192",
+        "PERIGEE": "1058"
+      },
+      {
+        "PERIOD": "105.71",
+        "INCLINATION": "89.96",
+        "APOGEE": "1073",
+        "PERIGEE": "983"
+      },
+      {
+        "PERIOD": "119.12",
+        "INCLINATION": "59.61",
+        "APOGEE": "2213",
+        "PERIGEE": "1069"
+      },
+      {
+        "PERIOD": "102.14",
+        "INCLINATION": "38.94",
+        "APOGEE": "1179",
+        "PERIGEE": "540"
+      },
+      {
+        "PERIOD": "103.54",
+        "INCLINATION": "39.96",
+        "APOGEE": "1297",
+        "PERIGEE": "555"
+      },
+      {
+        "PERIOD": "115.83",
+        "INCLINATION": "56.07",
+        "APOGEE": "1638",
+        "PERIGEE": "1349"
+      },
+      {
+        "PERIOD": "104.71",
+        "INCLINATION": "90.10",
+        "APOGEE": "1138",
+        "PERIGEE": "823"
+      },
+      {
+        "PERIOD": "106.02",
+        "INCLINATION": "89.93",
+        "APOGEE": "1056",
+        "PERIGEE": "1028"
+      },
+      {
+        "PERIOD": "104.57",
+        "INCLINATION": "89.15",
+        "APOGEE": "1042",
+        "PERIGEE": "906"
+      },
+      {
+        "PERIOD": "309.78",
+        "INCLINATION": "32.17",
+        "APOGEE": "14807",
+        "PERIGEE": "2768"
+      },
+      {
+        "PERIOD": "115.88",
+        "INCLINATION": "100.83",
+        "APOGEE": "1559",
+        "PERIGEE": "1432"
+      },
+      {
+        "PERIOD": "144.04",
+        "INCLINATION": "41.02",
+        "APOGEE": "4746",
+        "PERIGEE": "702"
+      },
+      {
+        "PERIOD": "181.51",
+        "INCLINATION": "87.02",
+        "APOGEE": "4264",
+        "PERIGEE": "4218"
+      },
+      {
+        "PERIOD": "136.89",
+        "INCLINATION": "40.64",
+        "APOGEE": "4266",
+        "PERIGEE": "575"
+      },
+      {
+        "PERIOD": "106.84",
+        "INCLINATION": "89.93",
+        "APOGEE": "1106",
+        "PERIGEE": "1055"
+      },
+      {
+        "PERIOD": "104.36",
+        "INCLINATION": "90.14",
+        "APOGEE": "1059",
+        "PERIGEE": "870"
+      },
+      {
+        "PERIOD": "165.60",
+        "INCLINATION": "95.83",
+        "APOGEE": "3755",
+        "PERIGEE": "3467"
+      },
+      {
+        "PERIOD": "104.66",
+        "INCLINATION": "89.40",
+        "APOGEE": "1091",
+        "PERIGEE": "866"
+      },
+      {
+        "PERIOD": "104.98",
+        "INCLINATION": "144.23",
+        "APOGEE": "998",
+        "PERIGEE": "989"
+      },
+      {
+        "PERIOD": "110.02",
+        "INCLINATION": "55.68",
+        "APOGEE": "1676",
+        "PERIGEE": "779"
+      },
+      {
+        "PERIOD": "103.72",
+        "INCLINATION": "144.28",
+        "APOGEE": "947",
+        "PERIGEE": "922"
+      },
+      {
+        "PERIOD": "102.92",
+        "INCLINATION": "144.20",
+        "APOGEE": "922",
+        "PERIGEE": "872"
+      },
+      {
+        "PERIOD": "181.42",
+        "INCLINATION": "86.90",
+        "APOGEE": "4282",
+        "PERIGEE": "4194"
+      },
+      {
+        "PERIOD": "106.65",
+        "INCLINATION": "89.06",
+        "APOGEE": "1256",
+        "PERIGEE": "887"
+      },
+      {
+        "PERIOD": "115.01",
+        "INCLINATION": "101.13",
+        "APOGEE": "1563",
+        "PERIGEE": "1349"
+      },
+      {
+        "PERIOD": "111.83",
+        "INCLINATION": "101.24",
+        "APOGEE": "1383",
+        "PERIGEE": "1239"
+      },
+      {
+        "PERIOD": "98.39",
+        "INCLINATION": "98.95",
+        "APOGEE": "800",
+        "PERIGEE": "564"
+      },
+      {
+        "PERIOD": "98.33",
+        "INCLINATION": "97.86",
+        "APOGEE": "717",
+        "PERIGEE": "641"
+      },
+      {
+        "PERIOD": "116.76",
+        "INCLINATION": "79.74",
+        "APOGEE": "2570",
+        "PERIGEE": "500"
+      },
+      {
+        "PERIOD": "102.73",
+        "INCLINATION": "90.07",
+        "APOGEE": "982",
+        "PERIGEE": "793"
+      },
+      {
+        "PERIOD": "106.90",
+        "INCLINATION": "89.87",
+        "APOGEE": "1321",
+        "PERIGEE": "845"
+      },
+      {
+        
+      },
+      {
+        
+      },
+      {
+        "PERIOD": "99.82",
+        "INCLINATION": "98.11",
+        "APOGEE": "844",
+        "PERIGEE": "655"
+      },
+      {
+        "PERIOD": "105.67",
+        "INCLINATION": "90.10",
+        "APOGEE": "1052",
+        "PERIGEE": "999"
+      },
+      {
+        "PERIOD": "117.19",
+        "INCLINATION": "79.87",
+        "APOGEE": "2605",
+        "PERIGEE": "504"
+      },
+      {
+        "PERIOD": "99.05",
+        "INCLINATION": "59.72",
+        "APOGEE": "769",
+        "PERIGEE": "658"
+      },
+      {
+        "PERIOD": "99.58",
+        "INCLINATION": "32.27",
+        "APOGEE": "803",
+        "PERIGEE": "674"
+      },
+      {
+        "PERIOD": "107.73",
+        "INCLINATION": "41.19",
+        "APOGEE": "1202",
+        "PERIGEE": "1041"
+      },
+      {
+        "PERIOD": "165.71",
+        "INCLINATION": "95.82",
+        "APOGEE": "3737",
+        "PERIGEE": "3494"
+      },
+      {
+        "PERIOD": "101.44",
+        "INCLINATION": "32.19",
+        "APOGEE": "968",
+        "PERIGEE": "686"
+      },
+      {
+        "PERIOD": "96.50",
+        "INCLINATION": "31.86",
+        "APOGEE": "595",
+        "PERIGEE": "587"
+      },
+      {
+        "PERIOD": "98.92",
+        "INCLINATION": "31.79",
+        "APOGEE": "754",
+        "PERIGEE": "661"
+      },
+      {
+        "PERIOD": "108.39",
+        "INCLINATION": "79.62",
+        "APOGEE": "1823",
+        "PERIGEE": "481"
+      },
+      {
+        "PERIOD": "108.25",
+        "INCLINATION": "79.86",
+        "APOGEE": "1807",
+        "PERIGEE": "484"
+      },
+      {
+        "PERIOD": "101.35",
+        "INCLINATION": "66.86",
+        "APOGEE": "862",
+        "PERIGEE": "783"
+      },
+      {
+        "PERIOD": "109.86",
+        "INCLINATION": "67.26",
+        "APOGEE": "1493",
+        "PERIGEE": "947"
+      },
+      {
+        "PERIOD": "100.82",
+        "INCLINATION": "98.93",
+        "APOGEE": "980",
+        "PERIGEE": "614"
+      },
+      {
+        "PERIOD": "98.92",
+        "INCLINATION": "31.88",
+        "APOGEE": "728",
+        "PERIGEE": "686"
+      },
+      {
+        "PERIOD": "95.93",
+        "INCLINATION": "32.09",
+        "APOGEE": "579",
+        "PERIGEE": "548"
+      },
+      {
+        "PERIOD": "99.57",
+        "INCLINATION": "32.13",
+        "APOGEE": "787",
+        "PERIGEE": "688"
+      },
+      {
+        "PERIOD": "91.83",
+        "INCLINATION": "31.88",
+        "APOGEE": "368",
+        "PERIGEE": "361"
+      },
+      {
+        "PERIOD": "96.55",
+        "INCLINATION": "32.39",
+        "APOGEE": "605",
+        "PERIGEE": "582"
+      },
+      {
+        "PERIOD": "98.77",
+        "INCLINATION": "32.23",
+        "APOGEE": "756",
+        "PERIGEE": "644"
+      },
+      {
+        "PERIOD": "97.49",
+        "INCLINATION": "32.29",
+        "APOGEE": "660",
+        "PERIGEE": "617"
+      },
+      {
+        "PERIOD": "98.64",
+        "INCLINATION": "32.42",
+        "APOGEE": "714",
+        "PERIGEE": "673"
+      },
+      {
+        "PERIOD": "99.04",
+        "INCLINATION": "32.19",
+        "APOGEE": "741",
+        "PERIGEE": "684"
+      },
+      {
+        "PERIOD": "100.58",
+        "INCLINATION": "32.22",
+        "APOGEE": "921",
+        "PERIGEE": "651"
+      },
+      {
+        "PERIOD": "98.36",
+        "INCLINATION": "32.41",
+        "APOGEE": "720",
+        "PERIGEE": "640"
+      },
+      {
+        "PERIOD": "98.40",
+        "INCLINATION": "32.26",
+        "APOGEE": "698",
+        "PERIGEE": "667"
+      },
+      {
+        "PERIOD": "97.77",
+        "INCLINATION": "32.37",
+        "APOGEE": "706",
+        "PERIGEE": "598"
+      },
+      {
+        "PERIOD": "99.22",
+        "INCLINATION": "32.16",
+        "APOGEE": "760",
+        "PERIGEE": "683"
+      },
+      {
+        "PERIOD": "97.70",
+        "INCLINATION": "32.07",
+        "APOGEE": "660",
+        "PERIGEE": "637"
+      },
+      {
+        "PERIOD": "98.49",
+        "INCLINATION": "32.12",
+        "APOGEE": "716",
+        "PERIGEE": "657"
+      },
+      {
+        "PERIOD": "97.86",
+        "INCLINATION": "32.31",
+        "APOGEE": "658",
+        "PERIGEE": "654"
+      },
+      {
+        "PERIOD": "97.37",
+        "INCLINATION": "32.09",
+        "APOGEE": "651",
+        "PERIGEE": "615"
+      },
+      {
+        "PERIOD": "115.46",
+        "INCLINATION": "56.16",
+        "APOGEE": "2130",
+        "PERIGEE": "823"
+      },
+      {
+        "PERIOD": "117.11",
+        "INCLINATION": "56.18",
+        "APOGEE": "1731",
+        "PERIGEE": "1371"
+      },
+      {
+        "PERIOD": "116.72",
+        "INCLINATION": "56.13",
+        "APOGEE": "1723",
+        "PERIGEE": "1344"
+      },
+      {
+        "PERIOD": "104.28",
+        "INCLINATION": "89.85",
+        "APOGEE": "975",
+        "PERIGEE": "946"
+      },
+      {
+        "PERIOD": "115.95",
+        "INCLINATION": "56.06",
+        "APOGEE": "1623",
+        "PERIGEE": "1374"
+      },
+      {
+        "PERIOD": "115.38",
+        "INCLINATION": "56.09",
+        "APOGEE": "1613",
+        "PERIGEE": "1332"
+      },
+      {
+        "PERIOD": "123.17",
+        "INCLINATION": "34.23",
+        "APOGEE": "3012",
+        "PERIGEE": "633"
+      },
+      {
+        "PERIOD": "114.05",
+        "INCLINATION": "56.17",
+        "APOGEE": "2070",
+        "PERIGEE": "755"
+      },
+      {
+        "PERIOD": "101.21",
+        "INCLINATION": "98.87",
+        "APOGEE": "842",
+        "PERIGEE": "790"
+      },
+      {
+        "PERIOD": "107.98",
+        "INCLINATION": "90.18",
+        "APOGEE": "1188",
+        "PERIGEE": "1078"
+      },
+      {
+        "PERIOD": "108.02",
+        "INCLINATION": "89.85",
+        "APOGEE": "1189",
+        "PERIGEE": "1081"
+      },
+      {
+        "PERIOD": "107.95",
+        "INCLINATION": "89.82",
+        "APOGEE": "1185",
+        "PERIGEE": "1079"
+      },
+      {
+        "PERIOD": "107.52",
+        "INCLINATION": "89.82",
+        "APOGEE": "1162",
+        "PERIGEE": "1062"
+      },
+      {
+        "PERIOD": "114.06",
+        "INCLINATION": "56.07",
+        "APOGEE": "2081",
+        "PERIGEE": "745"
+      },
+      {
+        "PERIOD": "114.42",
+        "INCLINATION": "56.03",
+        "APOGEE": "2029",
+        "PERIGEE": "830"
+      },
+      {
+        "PERIOD": "107.14",
+        "INCLINATION": "56.09",
+        "APOGEE": "1582",
+        "PERIGEE": "607"
+      },
+      {
+        "PERIOD": "111.10",
+        "INCLINATION": "55.50",
+        "APOGEE": "1733",
+        "PERIGEE": "822"
+      },
+      {
+        "PERIOD": "105.16",
+        "INCLINATION": "89.97",
+        "APOGEE": "1056",
+        "PERIGEE": "948"
+      },
+      {
+        "PERIOD": "106.77",
+        "INCLINATION": "89.95",
+        "APOGEE": "1132",
+        "PERIGEE": "1022"
+      },
+      {
+        "PERIOD": "110.91",
+        "INCLINATION": "90.31",
+        "APOGEE": "1277",
+        "PERIGEE": "1261"
+      },
+      {
+        "PERIOD": "99.63",
+        "INCLINATION": "55.88",
+        "APOGEE": "992",
+        "PERIGEE": "490"
+      },
+      {
+        "PERIOD": "109.86",
+        "INCLINATION": "89.72",
+        "APOGEE": "1237",
+        "PERIGEE": "1203"
+      },
+      {
+        "PERIOD": "104.41",
+        "INCLINATION": "56.08",
+        "APOGEE": "1364",
+        "PERIGEE": "570"
+      },
+      {
+        "PERIOD": "109.22",
+        "INCLINATION": "90.30",
+        "APOGEE": "1217",
+        "PERIGEE": "1165"
+      },
+      {
+        "PERIOD": "119.97",
+        "INCLINATION": "96.43",
+        "APOGEE": "2628",
+        "PERIGEE": "731"
+      },
+      {
+        "PERIOD": "117.33",
+        "INCLINATION": "96.35",
+        "APOGEE": "2451",
+        "PERIGEE": "671"
+      },
+      {
+        "PERIOD": "105.75",
+        "INCLINATION": "89.95",
+        "APOGEE": "1059",
+        "PERIGEE": "1000"
+      },
+      {
+        "PERIOD": "104.56",
+        "INCLINATION": "80.05",
+        "APOGEE": "1068",
+        "PERIGEE": "880"
+      },
+      {
+        "PERIOD": "102.52",
+        "INCLINATION": "79.32",
+        "APOGEE": "964",
+        "PERIGEE": "792"
+      },
+      {
+        "PERIOD": "105.44",
+        "INCLINATION": "89.98",
+        "APOGEE": "1038",
+        "PERIGEE": "992"
+      },
+      {
+        "PERIOD": "105.43",
+        "INCLINATION": "89.98",
+        "APOGEE": "1038",
+        "PERIGEE": "991"
+      },
+      {
+        "PERIOD": "104.65",
+        "INCLINATION": "90.15",
+        "APOGEE": "997",
+        "PERIGEE": "960"
+      },
+      {
+        "PERIOD": "106.31",
+        "INCLINATION": "90.15",
+        "APOGEE": "1070",
+        "PERIGEE": "1041"
+      },
+      {
+        "PERIOD": "120.67",
+        "INCLINATION": "60.71",
+        "APOGEE": "3043",
+        "PERIGEE": "379"
+      },
+      {
+        "PERIOD": "100.97",
+        "INCLINATION": "89.91",
+        "APOGEE": "830",
+        "PERIGEE": "779"
+      },
+      {
+        "PERIOD": "106.39",
+        "INCLINATION": "89.93",
+        "APOGEE": "1083",
+        "PERIGEE": "1035"
+      },
+      {
+        "PERIOD": "122.94",
+        "INCLINATION": "60.79",
+        "APOGEE": "3230",
+        "PERIGEE": "394"
+      },
+      {
+        "PERIOD": "106.33",
+        "INCLINATION": "90.10",
+        "APOGEE": "1070",
+        "PERIGEE": "1043"
+      },
+      {
+        "PERIOD": "108.57",
+        "INCLINATION": "81.52",
+        "APOGEE": "1293",
+        "PERIGEE": "1028"
+      },
+      {
+        "PERIOD": "108.61",
+        "INCLINATION": "81.47",
+        "APOGEE": "1292",
+        "PERIGEE": "1032"
+      },
+      {
+        "PERIOD": "104.18",
+        "INCLINATION": "30.42",
+        "APOGEE": "1432",
+        "PERIGEE": "481"
+      },
+      {
+        "PERIOD": "105.17",
+        "INCLINATION": "78.59",
+        "APOGEE": "1400",
+        "PERIGEE": "605"
+      },
+      {
+        "PERIOD": "101.96",
+        "INCLINATION": "78.60",
+        "APOGEE": "1145",
+        "PERIGEE": "558"
+      },
+      {
+        "PERIOD": "105.21",
+        "INCLINATION": "78.54",
+        "APOGEE": "1392",
+        "PERIGEE": "616"
+      },
+      {
+        "PERIOD": "99.54",
+        "INCLINATION": "58.47",
+        "APOGEE": "819",
+        "PERIGEE": "654"
+      },
+      {
+        "PERIOD": "105.05",
+        "INCLINATION": "89.95",
+        "APOGEE": "1017",
+        "PERIGEE": "977"
+      },
+      {
+        "PERIOD": "106.27",
+        "INCLINATION": "89.93",
+        "APOGEE": "1072",
+        "PERIGEE": "1035"
+      },
+      {
+        "PERIOD": "104.61",
+        "INCLINATION": "30.01",
+        "APOGEE": "1366",
+        "PERIGEE": "586"
+      },
+      {
+        "PERIOD": "107.59",
+        "INCLINATION": "30.48",
+        "APOGEE": "1658",
+        "PERIGEE": "572"
+      },
+      {
+        "PERIOD": "105.19",
+        "INCLINATION": "29.93",
+        "APOGEE": "1410",
+        "PERIGEE": "597"
+      },
+      {
+        "PERIOD": "105.46",
+        "INCLINATION": "90.09",
+        "APOGEE": "1047",
+        "PERIGEE": "985"
+      },
+      {
+        "PERIOD": "98.74",
+        "INCLINATION": "66.52",
+        "APOGEE": "733",
+        "PERIGEE": "664"
+      },
+      {
+        "PERIOD": "113.82",
+        "INCLINATION": "67.17",
+        "APOGEE": "1857",
+        "PERIGEE": "946"
+      },
+      {
+        "PERIOD": "107.72",
+        "INCLINATION": "65.87",
+        "APOGEE": "1388",
+        "PERIGEE": "854"
+      },
+      {
+        "PERIOD": "109.85",
+        "INCLINATION": "66.21",
+        "APOGEE": "1466",
+        "PERIGEE": "974"
+      },
+      {
+        "PERIOD": "113.66",
+        "INCLINATION": "66.29",
+        "APOGEE": "1913",
+        "PERIGEE": "876"
+      },
+      {
+        "PERIOD": "110.15",
+        "INCLINATION": "67.26",
+        "APOGEE": "1518",
+        "PERIGEE": "949"
+      },
+      {
+        "PERIOD": "105.50",
+        "INCLINATION": "67.46",
+        "APOGEE": "1135",
+        "PERIGEE": "901"
+      },
+      {
+        "PERIOD": "102.27",
+        "INCLINATION": "66.70",
+        "APOGEE": "923",
+        "PERIGEE": "809"
+      },
+      {
+        "PERIOD": "113.90",
+        "INCLINATION": "66.27",
+        "APOGEE": "1843",
+        "PERIGEE": "968"
+      },
+      {
+        "PERIOD": "106.16",
+        "INCLINATION": "65.88",
+        "APOGEE": "1203",
+        "PERIGEE": "895"
+      },
+      {
+        "PERIOD": "110.50",
+        "INCLINATION": "66.59",
+        "APOGEE": "1563",
+        "PERIGEE": "937"
+      },
+      {
+        "PERIOD": "106.11",
+        "INCLINATION": "67.10",
+        "APOGEE": "1161",
+        "PERIGEE": "931"
+      },
+      {
+        "PERIOD": "108.35",
+        "INCLINATION": "66.37",
+        "APOGEE": "1415",
+        "PERIGEE": "885"
+      },
+      {
+        "PERIOD": "168.25",
+        "INCLINATION": "88.41",
+        "APOGEE": "3928",
+        "PERIGEE": "3506"
+      },
+      {
+        "PERIOD": "167.47",
+        "INCLINATION": "88.42",
+        "APOGEE": "3699",
+        "PERIGEE": "3674"
+      },
+      {
+        "PERIOD": "116.15",
+        "INCLINATION": "67.76",
+        "APOGEE": "2014",
+        "PERIGEE": "1001"
+      },
+      {
+        "PERIOD": "106.74",
+        "INCLINATION": "67.16",
+        "APOGEE": "1310",
+        "PERIGEE": "841"
+      },
+      {
+        "PERIOD": "99.81",
+        "INCLINATION": "66.61",
+        "APOGEE": "807",
+        "PERIGEE": "692"
+      },
+      {
+        "PERIOD": "112.02",
+        "INCLINATION": "65.70",
+        "APOGEE": "1679",
+        "PERIGEE": "960"
+      },
+      {
+        "PERIOD": "103.53",
+        "INCLINATION": "67.75",
+        "APOGEE": "1002",
+        "PERIGEE": "848"
+      },
+      {
+        "PERIOD": "107.82",
+        "INCLINATION": "66.69",
+        "APOGEE": "1282",
+        "PERIGEE": "970"
+      },
+      {
+        "PERIOD": "98.38",
+        "INCLINATION": "66.68",
+        "APOGEE": "762",
+        "PERIGEE": "600"
+      },
+      {
+        "PERIOD": "105.22",
+        "INCLINATION": "67.23",
+        "APOGEE": "1129",
+        "PERIGEE": "880"
+      },
+      {
+        "PERIOD": "106.32",
+        "INCLINATION": "66.87",
+        "APOGEE": "1197",
+        "PERIGEE": "915"
+      },
+      {
+        "PERIOD": "105.26",
+        "INCLINATION": "67.03",
+        "APOGEE": "1062",
+        "PERIGEE": "951"
+      },
+      {
+        "PERIOD": "104.01",
+        "INCLINATION": "67.22",
+        "APOGEE": "1008",
+        "PERIGEE": "888"
+      },
+      {
+        "PERIOD": "99.73",
+        "INCLINATION": "67.81",
+        "APOGEE": "768",
+        "PERIGEE": "723"
+      },
+      {
+        "PERIOD": "105.70",
+        "INCLINATION": "67.23",
+        "APOGEE": "1154",
+        "PERIGEE": "900"
+      },
+      {
+        "PERIOD": "103.00",
+        "INCLINATION": "66.88",
+        "APOGEE": "963",
+        "PERIGEE": "837"
+      },
+      {
+        "PERIOD": "103.53",
+        "INCLINATION": "66.00",
+        "APOGEE": "991",
+        "PERIGEE": "860"
+      },
+      {
+        "PERIOD": "105.25",
+        "INCLINATION": "80.43",
+        "APOGEE": "1030",
+        "PERIGEE": "982"
+      },
+      {
+        "PERIOD": "105.14",
+        "INCLINATION": "80.51",
+        "APOGEE": "1012",
+        "PERIGEE": "990"
+      },
+      {
+        "PERIOD": "100.54",
+        "INCLINATION": "66.24",
+        "APOGEE": "854",
+        "PERIGEE": "714"
+      },
+      {
+        "PERIOD": "97.03",
+        "INCLINATION": "66.68",
+        "APOGEE": "628",
+        "PERIGEE": "604"
+      },
+      {
+        "PERIOD": "98.92",
+        "INCLINATION": "66.07",
+        "APOGEE": "738",
+        "PERIGEE": "676"
+      },
+      {
+        "PERIOD": "102.16",
+        "INCLINATION": "66.23",
+        "APOGEE": "971",
+        "PERIGEE": "751"
+      },
+      {
+        "PERIOD": "97.64",
+        "INCLINATION": "66.25",
+        "APOGEE": "659",
+        "PERIGEE": "632"
+      },
+      {
+        "PERIOD": "102.51",
+        "INCLINATION": "66.23",
+        "APOGEE": "927",
+        "PERIGEE": "827"
+      },
+      {
+        "PERIOD": "100.84",
+        "INCLINATION": "66.84",
+        "APOGEE": "840",
+        "PERIGEE": "757"
+      },
+      {
+        "PERIOD": "106.84",
+        "INCLINATION": "66.56",
+        "APOGEE": "1270",
+        "PERIGEE": "891"
+      },
+      {
+        "PERIOD": "100.65",
+        "INCLINATION": "66.32",
+        "APOGEE": "813",
+        "PERIGEE": "765"
+      },
+      {
+        "PERIOD": "99.86",
+        "INCLINATION": "66.77",
+        "APOGEE": "789",
+        "PERIGEE": "714"
+      },
+      {
+        "PERIOD": "98.81",
+        "INCLINATION": "67.51",
+        "APOGEE": "738",
+        "PERIGEE": "666"
+      },
+      {
+        "PERIOD": "100.83",
+        "INCLINATION": "66.82",
+        "APOGEE": "857",
+        "PERIGEE": "738"
+      },
+      {
+        "PERIOD": "101.64",
+        "INCLINATION": "66.75",
+        "APOGEE": "892",
+        "PERIGEE": "780"
+      },
+      {
+        "PERIOD": "101.98",
+        "INCLINATION": "66.52",
+        "APOGEE": "902",
+        "PERIGEE": "803"
+      },
+      {
+        "PERIOD": "104.58",
+        "INCLINATION": "66.44",
+        "APOGEE": "1012",
+        "PERIGEE": "937"
+      },
+      {
+        "PERIOD": "104.65",
+        "INCLINATION": "66.69",
+        "APOGEE": "994",
+        "PERIGEE": "962"
+      },
+      {
+        "PERIOD": "101.24",
+        "INCLINATION": "66.71",
+        "APOGEE": "873",
+        "PERIGEE": "762"
+      },
+      {
+        "PERIOD": "104.76",
+        "INCLINATION": "66.78",
+        "APOGEE": "1029",
+        "PERIGEE": "937"
+      },
+      {
+        "PERIOD": "99.72",
+        "INCLINATION": "66.32",
+        "APOGEE": "810",
+        "PERIGEE": "681"
+      },
+      {
+        "PERIOD": "105.39",
+        "INCLINATION": "66.78",
+        "APOGEE": "1106",
+        "PERIGEE": "920"
+      },
+      {
+        "PERIOD": "105.45",
+        "INCLINATION": "66.89",
+        "APOGEE": "1079",
+        "PERIGEE": "952"
+      },
+      {
+        "PERIOD": "111.63",
+        "INCLINATION": "66.47",
+        "APOGEE": "1737",
+        "PERIGEE": "866"
+      },
+      {
+        "PERIOD": "104.30",
+        "INCLINATION": "66.84",
+        "APOGEE": "980",
+        "PERIGEE": "943"
+      },
+      {
+        "PERIOD": "100.10",
+        "INCLINATION": "66.66",
+        "APOGEE": "785",
+        "PERIGEE": "742"
+      },
+      {
+        "PERIOD": "93.04",
+        "INCLINATION": "58.41",
+        "APOGEE": "432",
+        "PERIGEE": "415"
+      },
+      {
+        "PERIOD": "102.63",
+        "INCLINATION": "66.81",
+        "APOGEE": "898",
+        "PERIGEE": "868"
+      },
+      {
+        "PERIOD": "108.14",
+        "INCLINATION": "67.22",
+        "APOGEE": "1336",
+        "PERIGEE": "945"
+      },
+      {
+        "PERIOD": "106.83",
+        "INCLINATION": "67.07",
+        "APOGEE": "1208",
+        "PERIGEE": "951"
+      },
+      {
+        "PERIOD": "96.89",
+        "INCLINATION": "66.51",
+        "APOGEE": "628",
+        "PERIGEE": "592"
+      },
+      {
+        "PERIOD": "99.19",
+        "INCLINATION": "66.75",
+        "APOGEE": "752",
+        "PERIGEE": "688"
+      },
+      {
+        "PERIOD": "101.37",
+        "INCLINATION": "66.91",
+        "APOGEE": "912",
+        "PERIGEE": "735"
+      },
+      {
+        "PERIOD": "104.80",
+        "INCLINATION": "67.01",
+        "APOGEE": "1061",
+        "PERIGEE": "909"
+      },
+      {
+        "PERIOD": "105.24",
+        "INCLINATION": "67.03",
+        "APOGEE": "1068",
+        "PERIGEE": "943"
+      },
+      {
+        "PERIOD": "101.66",
+        "INCLINATION": "66.84",
+        "APOGEE": "868",
+        "PERIGEE": "806"
+      },
+      {
+        "PERIOD": "103.51",
+        "INCLINATION": "66.92",
+        "APOGEE": "987",
+        "PERIGEE": "862"
+      },
+      {
+        "PERIOD": "98.90",
+        "INCLINATION": "66.71",
+        "APOGEE": "749",
+        "PERIGEE": "663"
+      },
+      {
+        "PERIOD": "102.74",
+        "INCLINATION": "66.98",
+        "APOGEE": "929",
+        "PERIGEE": "848"
+      },
+      {
+        "PERIOD": "105.49",
+        "INCLINATION": "66.78",
+        "APOGEE": "1108",
+        "PERIGEE": "927"
+      },
+      {
+        "PERIOD": "103.63",
+        "INCLINATION": "66.54",
+        "APOGEE": "1016",
+        "PERIGEE": "845"
+      },
+      {
+        "PERIOD": "101.58",
+        "INCLINATION": "66.92",
+        "APOGEE": "883",
+        "PERIGEE": "784"
+      },
+      {
+        "PERIOD": "102.14",
+        "INCLINATION": "66.87",
+        "APOGEE": "913",
+        "PERIGEE": "807"
+      },
+      {
+        "PERIOD": "101.93",
+        "INCLINATION": "66.84",
+        "APOGEE": "911",
+        "PERIGEE": "789"
+      },
+      {
+        "PERIOD": "100.92",
+        "INCLINATION": "66.90",
+        "APOGEE": "906",
+        "PERIGEE": "698"
+      },
+      {
+        "PERIOD": "97.06",
+        "INCLINATION": "66.54",
+        "APOGEE": "675",
+        "PERIGEE": "561"
+      },
+      {
+        "PERIOD": "99.04",
+        "INCLINATION": "58.25",
+        "APOGEE": "867",
+        "PERIGEE": "559"
+      },
+      {
+        "PERIOD": "105.29",
+        "INCLINATION": "67.17",
+        "APOGEE": "1148",
+        "PERIGEE": "868"
+      },
+      {
+        "PERIOD": "153.30",
+        "INCLINATION": "86.66",
+        "APOGEE": "3429",
+        "PERIGEE": "2792"
+      },
+      {
+        "PERIOD": "152.57",
+        "INCLINATION": "86.65",
+        "APOGEE": "3394",
+        "PERIGEE": "2767"
+      },
+      {
+        "PERIOD": "115.20",
+        "INCLINATION": "67.94",
+        "APOGEE": "1978",
+        "PERIGEE": "951"
+      },
+      {
+        "PERIOD": "100.98",
+        "INCLINATION": "66.53",
+        "APOGEE": "822",
+        "PERIGEE": "788"
+      },
+      {
+        "PERIOD": "100.03",
+        "INCLINATION": "66.53",
+        "APOGEE": "842",
+        "PERIGEE": "678"
+      },
+      {
+        "PERIOD": "99.95",
+        "INCLINATION": "66.47",
+        "APOGEE": "807",
+        "PERIGEE": "706"
+      },
+      {
+        "PERIOD": "102.88",
+        "INCLINATION": "66.68",
+        "APOGEE": "963",
+        "PERIGEE": "826"
+      },
+      {
+        "PERIOD": "100.45",
+        "INCLINATION": "66.77",
+        "APOGEE": "820",
+        "PERIGEE": "740"
+      },
+      {
+        "PERIOD": "99.91",
+        "INCLINATION": "66.78",
+        "APOGEE": "809",
+        "PERIGEE": "700"
+      },
+      {
+        "PERIOD": "98.78",
+        "INCLINATION": "66.93",
+        "APOGEE": "724",
+        "PERIGEE": "677"
+      },
+      {
+        "PERIOD": "104.66",
+        "INCLINATION": "67.08",
+        "APOGEE": "1018",
+        "PERIGEE": "939"
+      },
+      {
+        "PERIOD": "103.92",
+        "INCLINATION": "66.87",
+        "APOGEE": "994",
+        "PERIGEE": "894"
+      },
+      {
+        "PERIOD": "101.90",
+        "INCLINATION": "66.07",
+        "APOGEE": "888",
+        "PERIGEE": "809"
+      },
+      {
+        "PERIOD": "103.27",
+        "INCLINATION": "66.84",
+        "APOGEE": "964",
+        "PERIGEE": "863"
+      },
+      {
+        "PERIOD": "103.12",
+        "INCLINATION": "66.46",
+        "APOGEE": "935",
+        "PERIGEE": "877"
+      },
+      {
+        "PERIOD": "102.25",
+        "INCLINATION": "66.96",
+        "APOGEE": "988",
+        "PERIGEE": "742"
+      },
+      {
+        "PERIOD": "102.71",
+        "INCLINATION": "66.88",
+        "APOGEE": "945",
+        "PERIGEE": "829"
+      },
+      {
+        "PERIOD": "98.68",
+        "INCLINATION": "66.85",
+        "APOGEE": "714",
+        "PERIGEE": "678"
+      },
+      {
+        "PERIOD": "102.93",
+        "INCLINATION": "66.82",
+        "APOGEE": "941",
+        "PERIGEE": "853"
+      },
+      {
+        "PERIOD": "103.15",
+        "INCLINATION": "66.88",
+        "APOGEE": "981",
+        "PERIGEE": "835"
+      },
+      {
+        "PERIOD": "96.01",
+        "INCLINATION": "48.43",
+        "APOGEE": "578",
+        "PERIGEE": "556"
+      },
+      {
+        "PERIOD": "100.14",
+        "INCLINATION": "48.15",
+        "APOGEE": "859",
+        "PERIGEE": "671"
+      },
+      {
+        "PERIOD": "100.64",
+        "INCLINATION": "66.80",
+        "APOGEE": "862",
+        "PERIGEE": "716"
+      },
+      {
+        "PERIOD": "102.32",
+        "INCLINATION": "66.74",
+        "APOGEE": "911",
+        "PERIGEE": "826"
+      },
+      {
+        "PERIOD": "103.70",
+        "INCLINATION": "66.89",
+        "APOGEE": "979",
+        "PERIGEE": "888"
+      },
+      {
+        "PERIOD": "103.94",
+        "INCLINATION": "66.46",
+        "APOGEE": "973",
+        "PERIGEE": "917"
+      },
+      {
+        "PERIOD": "161.86",
+        "INCLINATION": "91.19",
+        "APOGEE": "3573",
+        "PERIGEE": "3347"
+      },
+      {
+        "PERIOD": "166.36",
+        "INCLINATION": "95.84",
+        "APOGEE": "3802",
+        "PERIGEE": "3481"
+      },
+      {
+        "PERIOD": "165.51",
+        "INCLINATION": "95.82",
+        "APOGEE": "3972",
+        "PERIGEE": "3244"
+      },
+      {
+        "PERIOD": "161.11",
+        "INCLINATION": "91.19",
+        "APOGEE": "3543",
+        "PERIGEE": "3317"
+      },
+      {
+        "PERIOD": "103.43",
+        "INCLINATION": "66.87",
+        "APOGEE": "974",
+        "PERIGEE": "867"
+      },
+      {
+        "PERIOD": "101.89",
+        "INCLINATION": "66.67",
+        "APOGEE": "929",
+        "PERIGEE": "767"
+      },
+      {
+        "PERIOD": "106.11",
+        "INCLINATION": "67.07",
+        "APOGEE": "1144",
+        "PERIGEE": "949"
+      },
+      {
+        "PERIOD": "101.22",
+        "INCLINATION": "47.85",
+        "APOGEE": "883",
+        "PERIGEE": "750"
+      },
+      {
+        "PERIOD": "110.61",
+        "INCLINATION": "65.53",
+        "APOGEE": "1532",
+        "PERIGEE": "978"
+      },
+      {
+        "PERIOD": "113.83",
+        "INCLINATION": "67.07",
+        "APOGEE": "1882",
+        "PERIGEE": "922"
+      },
+      {
+        "PERIOD": "100.13",
+        "INCLINATION": "66.88",
+        "APOGEE": "802",
+        "PERIGEE": "727"
+      },
+      {
+        "PERIOD": "102.55",
+        "INCLINATION": "66.66",
+        "APOGEE": "940",
+        "PERIGEE": "819"
+      },
+      {
+        "PERIOD": "102.21",
+        "INCLINATION": "66.60",
+        "APOGEE": "974",
+        "PERIGEE": "753"
+      },
+      {
+        "PERIOD": "104.29",
+        "INCLINATION": "66.25",
+        "APOGEE": "1013",
+        "PERIGEE": "909"
+      },
+      {
+        "PERIOD": "102.49",
+        "INCLINATION": "65.78",
+        "APOGEE": "983",
+        "PERIGEE": "771"
+      },
+      {
+        "PERIOD": "101.52",
+        "INCLINATION": "66.62",
+        "APOGEE": "865",
+        "PERIGEE": "797"
+      },
+      {
+        "PERIOD": "102.78",
+        "INCLINATION": "66.93",
+        "APOGEE": "932",
+        "PERIGEE": "849"
+      },
+      {
+        "PERIOD": "103.61",
+        "INCLINATION": "66.50",
+        "APOGEE": "961",
+        "PERIGEE": "898"
+      },
+      {
+        "PERIOD": "103.86",
+        "INCLINATION": "66.59",
+        "APOGEE": "988",
+        "PERIGEE": "894"
+      },
+      {
+        "PERIOD": "102.77",
+        "INCLINATION": "67.16",
+        "APOGEE": "908",
+        "PERIGEE": "872"
+      },
+      {
+        "PERIOD": "100.51",
+        "INCLINATION": "67.53",
+        "APOGEE": "815",
+        "PERIGEE": "751"
+      },
+      {
+        "PERIOD": "103.10",
+        "INCLINATION": "66.88",
+        "APOGEE": "969",
+        "PERIGEE": "842"
+      },
+      {
+        "PERIOD": "101.58",
+        "INCLINATION": "67.12",
+        "APOGEE": "873",
+        "PERIGEE": "794"
+      },
+      {
+        "PERIOD": "103.28",
+        "INCLINATION": "66.66",
+        "APOGEE": "965",
+        "PERIGEE": "862"
+      },
+      {
+        "PERIOD": "102.82",
+        "INCLINATION": "66.74",
+        "APOGEE": "946",
+        "PERIGEE": "838"
+      },
+      {
+        "PERIOD": "102.96",
+        "INCLINATION": "66.77",
+        "APOGEE": "963",
+        "PERIGEE": "834"
+      },
+      {
+        "PERIOD": "102.78",
+        "INCLINATION": "66.68",
+        "APOGEE": "963",
+        "PERIGEE": "817"
+      },
+      {
+        "PERIOD": "100.15",
+        "INCLINATION": "66.83",
+        "APOGEE": "824",
+        "PERIGEE": "707"
+      },
+      {
+        "PERIOD": "100.32",
+        "INCLINATION": "66.71",
+        "APOGEE": "817",
+        "PERIGEE": "730"
+      },
+      {
+        "PERIOD": "102.48",
+        "INCLINATION": "66.88",
+        "APOGEE": "934",
+        "PERIGEE": "818"
+      },
+      {
+        "PERIOD": "100.71",
+        "INCLINATION": "66.54",
+        "APOGEE": "845",
+        "PERIGEE": "740"
+      },
+      {
+        "PERIOD": "100.24",
+        "INCLINATION": "66.69",
+        "APOGEE": "848",
+        "PERIGEE": "692"
+      },
+      {
+        "PERIOD": "98.11",
+        "INCLINATION": "66.75",
+        "APOGEE": "723",
+        "PERIGEE": "614"
+      },
+      {
+        "PERIOD": "102.89",
+        "INCLINATION": "66.75",
+        "APOGEE": "960",
+        "PERIGEE": "831"
+      },
+      {
+        "PERIOD": "101.07",
+        "INCLINATION": "66.71",
+        "APOGEE": "890",
+        "PERIGEE": "729"
+      },
+      {
+        "PERIOD": "101.21",
+        "INCLINATION": "66.73",
+        "APOGEE": "889",
+        "PERIGEE": "742"
+      },
+      {
+        "PERIOD": "97.11",
+        "INCLINATION": "48.17",
+        "APOGEE": "645",
+        "PERIGEE": "596"
+      },
+      {
+        "PERIOD": "101.74",
+        "INCLINATION": "38.77",
+        "APOGEE": "1132",
+        "PERIGEE": "550"
+      },
+      {
+        "PERIOD": "118.31",
+        "INCLINATION": "47.27",
+        "APOGEE": "1683",
+        "PERIGEE": "1527"
+      },
+      {
+        "PERIOD": "118.26",
+        "INCLINATION": "47.38",
+        "APOGEE": "1711",
+        "PERIGEE": "1494"
+      },
+      {
+        "PERIOD": "118.20",
+        "INCLINATION": "47.21",
+        "APOGEE": "1684",
+        "PERIGEE": "1517"
+      }
+    ]
+  }
+}
